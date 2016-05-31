@@ -1,34 +1,32 @@
-#Commands
-##custom commands
-###Add or manage your **AWESOME** custom commands !
-Custom commands allow you to type a simple command and give a large explenation or a link without having to type a lot or searching the link.
-
-![field explenation](pics/commands.png)
-
+#Commands Plugin
+##Mee6 Custom Commands Plugin
+###Add or Manage your **AWESOME** Custom Commands!
+The Custom Commands Plugin allow you to type a simple command and give a large explanation or a link without needing to copy/paste or type a bulk response each time.  
+  
+![add_commands](pics/commands.png)
+  
 ###To add custom command follow these steps:
-
-1) Write name of command.
-In name can only be: `letters, numbers, - or _`
-In name can't be: spaces and all other stuff
-And you don't need to write `!` at start its added automatically
-
-2) Write text bot will say after command was told in chat.
-For now bot can't do stuff like kick, give auto-role or etc...
-But it is planed to add this features to custom commands.
+  
+**1**) Write the name you wish the command to have.  
+In the command name, you can only have: `letters, numbers, - or _`  
+Also you do not need to write `!` at start its added automatically.  
+  
+**2**) Write the return text you wish for the bot to say.  
+At the current time, the bot cannot do special function; Only return messages.  
+However this is planned to added as a feature to custom commands advanced.  
 ```The advanced command plugin is a soon-to-be-released MAGIC plugin!
 It will let you add some advanced commands with arguments like !your_command @someone @someoneelse
 You'll also be able to trigger some actions like send_message, send_private_message, kick, add_role etc...
 AND one more thing... You'll be able to share your commands in a Public Command Hub so that other server managers can use them.```
-
-3) Now you need to press `Add` button to save command and add it to server.
-To use command in chat type `!command_name` and bot will respond.
-
-###To edit custom command
-
-![to edit custom command](pics/commands_edit.png)
-
-1) Edit your answer message. (you cant edit name)
-
-2) Press `Edit` Button to save changes to command.
-
-3) Press `Delete` button to delete (remove) command.
+**3**) Now you press the `Add` button to save your command and add it to your Discord Server.  
+To use the command in chat, simple type `!command_name` and bot will send the response.  
+  
+###To edit custom command  
+![edit_commands](pics/commands_edit.png)
+  
+If you wish to modify an existing command.  
+**1**) Edit your return response. (You currently cannot change command name.)  
+**2**) Press `Edit` Button to save changes to command.  
+  
+If you wish to remove an existing command.  
+**1**) Press the `Delete` button to delete (remove) an existing command.
