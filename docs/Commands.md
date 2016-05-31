@@ -22,3 +22,13 @@ AND one more thing... You'll be able to share your commands in a Public Command 
 
 3) Now you need to press `Add` button to save command and add it to server.
 To use command in chat type `!command_name` and bot will respond.
+
+###To edit custom command
+
+![to edit custom command](https://i.imgur.com/6dQ6gAd.png)
+
+1) Edit your answer message. (you cant edit name)
+
+2) Press `Edit` Button to save changes to command.
+
+3) Press `Delete` button to delete (remove) command.
