@@ -8,7 +8,7 @@
   
   <meta name="author" content="Sil Boydens">
   
-  <title>Example - Mee6 documentation</title>
+  <title>Custom Commands - Mee6 documentation</title>
   
 
   <link rel="shortcut icon" href="../img/favicon.ico">
@@ -25,9 +25,9 @@
   
   <script>
     // Current page data
-    var mkdocs_page_name = "Example";
-    var mkdocs_page_input_path = "example.md";
-    var mkdocs_page_url = "/example/";
+    var mkdocs_page_name = "Custom Commands";
+    var mkdocs_page_input_path = "Commands.md";
+    var mkdocs_page_url = "/Commands/";
   </script>
   
   <script src="../js/jquery-2.1.1.min.js"></script>
@@ -68,26 +68,24 @@
 <li>
           
             <li>
-    <li class="toctree-l1 current">
-        <a class="current" href="./">Example</a>
-        
-            <ul>
-            
-                <li class="toctree-l3"><a href="#example-of-a-page">example of a page</a></li>
-                
-                    <li><a class="toctree-l4" href="#subheader-2">subheader 2</a></li>
-                
-                    <li><a class="toctree-l4" href="#another-header">another header</a></li>
-                
-            
-            </ul>
+    <li class="toctree-l1 ">
+        <a class="" href="../example/">Example</a>
         
     </li>
 <li>
           
             <li>
-    <li class="toctree-l1 ">
-        <a class="" href="../Commands/">Custom Commands</a>
+    <li class="toctree-l1 current">
+        <a class="current" href="./">Custom Commands</a>
+        
+            <ul>
+            
+                <li class="toctree-l3"><a href="#commands">Commands</a></li>
+                
+                    <li><a class="toctree-l4" href="#custom-commands">custom commands</a></li>
+                
+            
+            </ul>
         
     </li>
 <li>
@@ -114,7 +112,7 @@
     
       
     
-    <li>Example</li>
+    <li>Custom Commands</li>
     <li class="wy-breadcrumbs-aside">
       
         
@@ -128,17 +126,30 @@
           <div role="main">
             <div class="section">
               
-                <h1 id="example-of-a-page">example of a page</h1>
-<h2 id="subheader-2">subheader 2</h2>
-<h3 id="subheader-3">subheader 3</h3>
-<p>some random text
-Lorem ipsum dolor sit amet, <strong>consectetur adipiscing elit. Pellentesque feugiat luctus ornare.</strong> <em>Cras in eleifend lectus. Integer tempus, nunc id porttitor sagittis,</em> felis erat fringilla urna, non faucibus eros justo porttitor tortor. Etiam eget massa in elit egestas ultrices. Sed suscipit tellus sed augue faucibus, vitae laoreet diam commodo. Cras porta gravida metus, vitae vulputate libero pulvinar non. Integer dignissim, sem ultrices commodo pretium, erat velit tincidunt metus, id tristique nisi turpis at lorem.</p>
-<h2 id="another-header">another header</h2>
-<p><strong>bold text</strong> and <em>cursief text</em></p>
-<p><a href="https://github.com/SilBoydens">a link</a> to my github</p>
-<p>and much more possible, it is in markdown!!</p>
-<p><a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">markdown cheatsheet</a></p>
-<p><a href="https://stackedit.io/editor#">a cool editor</a></p>
+                <h1 id="commands">Commands</h1>
+<h2 id="custom-commands">custom commands</h2>
+<h3 id="add-or-manage-your-awesome-custom-commands">Add or manage your <strong>AWESOME</strong> custom commands !</h3>
+<p>Custom commands allow you to type a simple command and give a large explenation or a link without having to type a lot or searching the link.</p>
+<p><img alt="field explenation" src="../pics/commands.png" /></p>
+<h3 id="to-add-custom-command-follow-these-steps">To add custom command follow these steps:</h3>
+<p>1) Write name of command.
+In name can only be: <code>letters, numbers, - or _</code>
+In name can't be: spaces and all other stuff
+And you don't need to write <code>!</code> at start its added automatically</p>
+<p>2) Write text bot will say after command was told in chat.
+For now bot can't do stuff like kick, give auto-role or etc...
+But it is planed to add this features to custom commands.
+<code>The advanced command plugin is a soon-to-be-released MAGIC plugin!
+It will let you add some advanced commands with arguments like !your_command @someone @someoneelse
+You'll also be able to trigger some actions like send_message, send_private_message, kick, add_role etc...
+AND one more thing... You'll be able to share your commands in a Public Command Hub so that other server managers can use them.</code></p>
+<p>3) Now you need to press <code>Add</code> button to save command and add it to server.
+To use command in chat type <code>!command_name</code> and bot will respond.</p>
+<h3 id="to-edit-custom-command">To edit custom command</h3>
+<p><img alt="to edit custom command" src="../pics/commands_edit.png" /></p>
+<p>1) Edit your answer message. (you cant edit name)</p>
+<p>2) Press <code>Edit</code> Button to save changes to command.</p>
+<p>3) Press <code>Delete</code> button to delete (remove) command.</p>
               
             </div>
           </div>
@@ -146,10 +157,8 @@ Lorem ipsum dolor sit amet, <strong>consectetur adipiscing elit. Pellentesque fe
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="../Commands/" class="btn btn-neutral float-right" title="Custom Commands">Next <span class="icon icon-circle-arrow-right"></span></a>
       
-      
-        <a href=".." class="btn btn-neutral" title="Home"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../example/" class="btn btn-neutral" title="Example"><span class="icon icon-circle-arrow-left"></span> Previous</a>
       
     </div>
   
@@ -177,10 +186,8 @@ Lorem ipsum dolor sit amet, <strong>consectetur adipiscing elit. Pellentesque fe
           <a href="https://github.com/SilBoydens/Mee6-documentation" class="icon icon-github" style="float: left; color: #fcfcfc"> GitHub</a>
       
       
-        <span><a href=".." style="color: #fcfcfc;">&laquo; Previous</a></span>
+        <span><a href="../example/" style="color: #fcfcfc;">&laquo; Previous</a></span>
       
-      
-        <span style="margin-left: 15px"><a href="../Commands/" style="color: #fcfcfc">Next &raquo;</a></span>
       
     </span>
 </div>

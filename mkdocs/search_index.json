@@ -12,7 +12,7 @@
         }, 
         {
             "location": "/example/", 
-            "text": "example of a page\n\n\nsubheader 2\n\n\nsubheader 3\n\n\nsome random text\nLorem ipsum dolor sit amet, \nconsectetur adipiscing elit. Pellentesque feugiat luctus ornare.\n \nCras in eleifend lectus. Integer tempus, nunc id porttitor sagittis,\n felis erat fringilla urna, non faucibus eros justo porttitor tortor. Etiam eget massa in elit egestas ultrices. Sed suscipit tellus sed augue faucibus, vitae laoreet diam commodo. Cras porta gravida metus, vitae vulputate libero pulvinar non. Integer dignissim, sem ultrices commodo pretium, erat velit tincidunt metus, id tristique nisi turpis at lorem.\n\n\nanother header\n\n\nbold text\n and \ncursief text\n\n\na link\n to my github\n\n\nand much more possible, it is in markdown!!\n\n\nmarkdown cheatsheet\n\n\na cool editor\n\n\nrandom text to fill the page so you can use the navigation system in the left\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dapibus tortor ac feugiat vehicula. Aenean hendrerit nulla quis dictum interdum. Quisque semper libero ut dolor sollicitudin pellentesque. Fusce tempor dolor sem, id vehicula augue iaculis sed. Donec ornare enim quis lacus tincidunt, non dignissim turpis faucibus. Aliquam porttitor lacinia sapien ac accumsan. Vivamus dui dolor, molestie sit amet ultricies vel, rhoncus pellentesque libero.\n\n\nNullam auctor neque non hendrerit pulvinar. Donec quam velit, malesuada quis eros eu, mollis egestas massa. Cras ornare sapien id enim interdum, vitae porta augue lacinia. Praesent velit risus, vestibulum ac commodo ac, suscipit ultricies tellus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut non aliquam tortor. In scelerisque egestas ante, nec vehicula turpis eleifend id. Proin molestie justo quis magna tincidunt, nec convallis magna auctor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n\n\nPraesent sit amet suscipit nulla. Morbi nunc erat, suscipit eget risus a, feugiat maximus magna. Phasellus est risus, interdum at dolor ac, sollicitudin tincidunt felis. Sed facilisis porttitor sapien ut lacinia. Morbi felis nulla, finibus ut ornare nec, interdum vitae ante. Maecenas quis ante est. Sed a magna elit. Etiam dictum dolor placerat est congue tempus. Mauris viverra, ligula eu convallis molestie, turpis erat feugiat orci, sit amet ultricies mauris nisl vel tortor. Praesent porta tempus felis nec posuere. Proin euismod nisi id elit pulvinar tempor.", 
+            "text": "example of a page\n\n\nsubheader 2\n\n\nsubheader 3\n\n\nsome random text\nLorem ipsum dolor sit amet, \nconsectetur adipiscing elit. Pellentesque feugiat luctus ornare.\n \nCras in eleifend lectus. Integer tempus, nunc id porttitor sagittis,\n felis erat fringilla urna, non faucibus eros justo porttitor tortor. Etiam eget massa in elit egestas ultrices. Sed suscipit tellus sed augue faucibus, vitae laoreet diam commodo. Cras porta gravida metus, vitae vulputate libero pulvinar non. Integer dignissim, sem ultrices commodo pretium, erat velit tincidunt metus, id tristique nisi turpis at lorem.\n\n\nanother header\n\n\nbold text\n and \ncursief text\n\n\na link\n to my github\n\n\nand much more possible, it is in markdown!!\n\n\nmarkdown cheatsheet\n\n\na cool editor", 
             "title": "Example"
         }, 
         {
@@ -32,8 +32,38 @@
         }, 
         {
             "location": "/example/#another-header", 
-            "text": "bold text  and  cursief text  a link  to my github  and much more possible, it is in markdown!!  markdown cheatsheet  a cool editor  random text to fill the page so you can use the navigation system in the left  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dapibus tortor ac feugiat vehicula. Aenean hendrerit nulla quis dictum interdum. Quisque semper libero ut dolor sollicitudin pellentesque. Fusce tempor dolor sem, id vehicula augue iaculis sed. Donec ornare enim quis lacus tincidunt, non dignissim turpis faucibus. Aliquam porttitor lacinia sapien ac accumsan. Vivamus dui dolor, molestie sit amet ultricies vel, rhoncus pellentesque libero.  Nullam auctor neque non hendrerit pulvinar. Donec quam velit, malesuada quis eros eu, mollis egestas massa. Cras ornare sapien id enim interdum, vitae porta augue lacinia. Praesent velit risus, vestibulum ac commodo ac, suscipit ultricies tellus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut non aliquam tortor. In scelerisque egestas ante, nec vehicula turpis eleifend id. Proin molestie justo quis magna tincidunt, nec convallis magna auctor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.  Praesent sit amet suscipit nulla. Morbi nunc erat, suscipit eget risus a, feugiat maximus magna. Phasellus est risus, interdum at dolor ac, sollicitudin tincidunt felis. Sed facilisis porttitor sapien ut lacinia. Morbi felis nulla, finibus ut ornare nec, interdum vitae ante. Maecenas quis ante est. Sed a magna elit. Etiam dictum dolor placerat est congue tempus. Mauris viverra, ligula eu convallis molestie, turpis erat feugiat orci, sit amet ultricies mauris nisl vel tortor. Praesent porta tempus felis nec posuere. Proin euismod nisi id elit pulvinar tempor.", 
+            "text": "bold text  and  cursief text  a link  to my github  and much more possible, it is in markdown!!  markdown cheatsheet  a cool editor", 
             "title": "another header"
+        }, 
+        {
+            "location": "/Commands/", 
+            "text": "Commands\n\n\ncustom commands\n\n\nAdd or manage your \nAWESOME\n custom commands !\n\n\nCustom commands allow you to type a simple command and give a large explenation or a link without having to type a lot or searching the link.\n\n\n\n\nTo add custom command follow these steps:\n\n\n1) Write name of command.\nIn name can only be: \nletters, numbers, - or _\n\nIn name can't be: spaces and all other stuff\nAnd you don't need to write \n!\n at start its added automatically\n\n\n2) Write text bot will say after command was told in chat.\nFor now bot can't do stuff like kick, give auto-role or etc...\nBut it is planed to add this features to custom commands.\n\nThe advanced command plugin is a soon-to-be-released MAGIC plugin!\nIt will let you add some advanced commands with arguments like !your_command @someone @someoneelse\nYou'll also be able to trigger some actions like send_message, send_private_message, kick, add_role etc...\nAND one more thing... You'll be able to share your commands in a Public Command Hub so that other server managers can use them.\n\n\n3) Now you need to press \nAdd\n button to save command and add it to server.\nTo use command in chat type \n!command_name\n and bot will respond.\n\n\nTo edit custom command\n\n\n\n\n1) Edit your answer message. (you cant edit name)\n\n\n2) Press \nEdit\n Button to save changes to command.\n\n\n3) Press \nDelete\n button to delete (remove) command.", 
+            "title": "Custom Commands"
+        }, 
+        {
+            "location": "/Commands/#commands", 
+            "text": "", 
+            "title": "Commands"
+        }, 
+        {
+            "location": "/Commands/#custom-commands", 
+            "text": "", 
+            "title": "custom commands"
+        }, 
+        {
+            "location": "/Commands/#add-or-manage-your-awesome-custom-commands", 
+            "text": "Custom commands allow you to type a simple command and give a large explenation or a link without having to type a lot or searching the link.", 
+            "title": "Add or manage your AWESOME custom commands !"
+        }, 
+        {
+            "location": "/Commands/#to-add-custom-command-follow-these-steps", 
+            "text": "1) Write name of command.\nIn name can only be:  letters, numbers, - or _ \nIn name can't be: spaces and all other stuff\nAnd you don't need to write  !  at start its added automatically  2) Write text bot will say after command was told in chat.\nFor now bot can't do stuff like kick, give auto-role or etc...\nBut it is planed to add this features to custom commands. The advanced command plugin is a soon-to-be-released MAGIC plugin!\nIt will let you add some advanced commands with arguments like !your_command @someone @someoneelse\nYou'll also be able to trigger some actions like send_message, send_private_message, kick, add_role etc...\nAND one more thing... You'll be able to share your commands in a Public Command Hub so that other server managers can use them.  3) Now you need to press  Add  button to save command and add it to server.\nTo use command in chat type  !command_name  and bot will respond.", 
+            "title": "To add custom command follow these steps:"
+        }, 
+        {
+            "location": "/Commands/#to-edit-custom-command", 
+            "text": "1) Edit your answer message. (you cant edit name)  2) Press  Edit  Button to save changes to command.  3) Press  Delete  button to delete (remove) command.", 
+            "title": "To edit custom command"
         }
     ]
 }
