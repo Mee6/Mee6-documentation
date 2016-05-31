@@ -1,16 +1,16 @@
 #Commands
 ##custom commands
 ###Add or manage your **AWESOME** custom commands !
-Sil write something nice here about custom commnads
+Custom commands allow you to type a simple command and give a large explenation or a link without having to type a lot or searching the link.
 
-![enter image description here](https://i.imgur.com/dFkmb4q.png)
+![field explenation](pics/commands.png)
 
 ###To add custom command follow these steps:
 
 1) Write name of command.
-In name can only be: letters, numbers, - or _
+In name can only be: `letters, numbers, - or _`
 In name can't be: spaces and all other stuff
-And you don't need to write ! at start its added automatically
+And you don't need to write `!` at start its added automatically
 
 2) Write text bot will say after command was told in chat.
 For now bot can't do stuff like kick, give auto-role or etc...
