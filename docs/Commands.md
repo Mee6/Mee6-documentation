@@ -25,7 +25,7 @@ To use command in chat type `!command_name` and bot will respond.
 
 ###To edit custom command
 
-![to edit custom command](pics/commands edit.png)
+![to edit custom command](pics/commands_edit.png)
 
 1) Edit your answer message. (you cant edit name)
 

@@ -11,3 +11,4 @@ markdown_extensions:
 pages:
   - Home: index.md
   - Example: example.md
+  - Custom Commands: Commands.md
