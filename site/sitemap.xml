@@ -3,16 +3,24 @@
 
     
     <url>
-     <loc>None/</loc>
-     <lastmod>2016-05-27</lastmod>
+     <loc>http://SilBoydens.github.io/Mee6-documentation/</loc>
+     <lastmod>2016-05-31</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>None/about/</loc>
-     <lastmod>2016-05-27</lastmod>
+     <loc>http://SilBoydens.github.io/Mee6-documentation/example/</loc>
+     <lastmod>2016-05-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>http://SilBoydens.github.io/Mee6-documentation/Commands/</loc>
+     <lastmod>2016-05-31</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
