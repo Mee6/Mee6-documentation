@@ -1,7 +1,7 @@
 ##Levels
 ###Let your members gain **xp** and **levels** by participating in the chat !
 
-![enter image description here](https://i.imgur.com/8BxvFCG.png)
+<src="../pics/levelmsg" title="levelmsg.png">
 
 1) This text will be writed by bot when someone will get level up.
 You can change it if you want to but remember you need to use `level {level}` to make bot write level in msg
@@ -17,7 +17,8 @@ Example i will create role `no xp` then give it to someone like spammers. At  da
 
 ###Role reward
 ####First how to setup mee6 role for levels
-![enter image description here](https://i.imgur.com/04wfyTN.png)
+
+<src="../pics/levelbotrole" title="levelbotrole.png">
 
 1) Find role `Mee6` or create one like `bots` and open it.
 
@@ -26,13 +27,13 @@ Example i will create role `no xp` then give it to someone like spammers. At  da
 3) If you want you can change role color. This will affect people name color who has this role. `This role is for bot only give to mee6 bot or other bots`
 
 4) If you will enable `Display role members separately from online members` you will see bot in special list for him:
-![enter image description here](https://i.imgur.com/dWexK7P.png)
+<src="../pics/levellistpeople" title="levellistpeople.png">
 
 5) You need to allow bot manage Roles but give bot all permissions because he needs them.
 
 ####To setup role reward
 
-![enter image description here](https://i.imgur.com/PitVSWS.png)
+<src="../pics/levelrewardrole" title="levelrewardrole.png">
 
 1) Create role for role reward or if you have open it.
 
@@ -41,14 +42,15 @@ Example i will create role `no xp` then give it to someone like spammers. At  da
 3) you can give color for role, if person hits needed level to get role he will get color role. Example i will set color GREEN because its green color role.
 
 4) If you will enable `Display role members separately from online members` you will see people in special list for them:
-![enter image description here](https://i.imgur.com/dWexK7P.png)
+<src="../pics/levellistpeople" title="levellistpeople.png">
 
 5) If you want you can setup role lets say kick people and get it by hitting lets say level 30 (setup high level reward to get role like this) then you need to give permission `Kick Members` .
 
 6) You are done here now press `Done` button and go to this link [Mee6 servers](https://mee6.xyz/servers)
 
 ####How to setup role reward at dashboard
-![enter image description here](https://i.imgur.com/8UQFGWH.png)
+
+<src="../pics/rewarddash" title="rewarddash.png">
 
 1) Find your roles you want to make level rewards.
 
