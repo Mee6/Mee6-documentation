@@ -10,6 +10,6 @@ markdown_extensions:
  - def_list
 pages:
   - Home: index.md
-  - Example: example.md
+#  - Example: example.md
   - Custom Commands: Commands.md
-  - Levels plugin: Levels.md
+#  - Levels plugin: Levels.md
