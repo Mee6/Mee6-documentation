@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Mee6 documentation\n\n\nSome handy links\n\n\n\n\nOur discord server\n\n\nMee6 Github page\n\n\nthe dashboard\n this is where you configure Mee6.\n\n\n\n\nStar Features\n\n\n\n\n\n\n\n\nFeature\n\n\ndescription\n\n\n\n\n\n\n\n\n\n\nLevels\n\n\nLet your members gain \nXP\n and \nlevels\n by participating in the chat!\n\n\n\n\n\n\nCommands\n\n\nAdd and manage your \nAWESOME\n custom commands!\n\n\n\n\n\n\nAnimu and Mango\n\n\nSearch the web for your favorite animes and mangas.\n\n\n\n\n\n\nLogs\n\n\nKeep logs of all the messages in your server\n\n\n\n\n\n\n\n\n\n\nAND MUCH MORE\n\n\n\n\nWho made this?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHi, I'm \nCookie\n. I made the first version of Mee6 bot in 3 days.\n\n\n\n\n\n\n\n\nThis is \nv\u028c\u0131\n. He corrects all the silly english related mistakes that I make on the website and on the bot.\n\n\n\n\n\n\n\n\nThis is \nsans\n. He loves archlinux and he made the Git Repo plugin.", 
+            "text": "Mee6 documentation\n\n\nSome handy links\n\n\n\n\nOur discord server\n\n\nMee6 Github page\n\n\nthe dashboard\n this is where you configure Mee6.\n\n\nrealtime statistics\n for the nerds ;-)\n\n\n\n\nStar Features\n\n\n\n\n\n\n\n\nFeature\n\n\ndescription\n\n\n\n\n\n\n\n\n\n\nLevels\n\n\nLet your members gain \nXP\n and \nlevels\n by participating in the chat!\n\n\n\n\n\n\nCommands\n\n\nAdd and manage your \nAWESOME\n custom commands!\n\n\n\n\n\n\nAnimu and Mango\n\n\nSearch the web for your favorite animes and mangas.\n\n\n\n\n\n\nLogs\n\n\nKeep logs of all the messages in your server\n\n\n\n\n\n\n\n\n\n\nAND MUCH MORE\n\n\n\n\nWho made this?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHi, I'm \nCookie\n. I made the first version of Mee6 bot in 3 days.\n\n\n\n\n\n\n\n\nThis is \nv\u028c\u0131\n. He corrects all the silly english related mistakes that I make on the website and on the bot.\n\n\n\n\n\n\n\n\nThis is \nsans\n. He loves archlinux and he made the Git Repo plugin.", 
             "title": "Home"
         }, 
         {
@@ -12,7 +12,7 @@
         }, 
         {
             "location": "/#some-handy-links", 
-            "text": "Our discord server  Mee6 Github page  the dashboard  this is where you configure Mee6.", 
+            "text": "Our discord server  Mee6 Github page  the dashboard  this is where you configure Mee6.  realtime statistics  for the nerds ;-)", 
             "title": "Some handy links"
         }, 
         {
