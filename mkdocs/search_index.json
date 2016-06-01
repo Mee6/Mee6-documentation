@@ -26,31 +26,6 @@
             "title": "Who made this?"
         }, 
         {
-            "location": "/example/", 
-            "text": "example of a page\n\n\nsubheader 2\n\n\nsubheader 3\n\n\nsome random text\nLorem ipsum dolor sit amet, \nconsectetur adipiscing elit. Pellentesque feugiat luctus ornare.\n \nCras in eleifend lectus. Integer tempus, nunc id porttitor sagittis,\n felis erat fringilla urna, non faucibus eros justo porttitor tortor. Etiam eget massa in elit egestas ultrices. Sed suscipit tellus sed augue faucibus, vitae laoreet diam commodo. Cras porta gravida metus, vitae vulputate libero pulvinar non. Integer dignissim, sem ultrices commodo pretium, erat velit tincidunt metus, id tristique nisi turpis at lorem.\n\n\nanother header\n\n\nbold text\n and \ncursief text\n\n\na link\n to my github\n\n\nand much more possible, it is in markdown!!\n\n\nmarkdown cheatsheet\n\n\na cool editor", 
-            "title": "Example"
-        }, 
-        {
-            "location": "/example/#example-of-a-page", 
-            "text": "", 
-            "title": "example of a page"
-        }, 
-        {
-            "location": "/example/#subheader-2", 
-            "text": "", 
-            "title": "subheader 2"
-        }, 
-        {
-            "location": "/example/#subheader-3", 
-            "text": "some random text\nLorem ipsum dolor sit amet,  consectetur adipiscing elit. Pellentesque feugiat luctus ornare.   Cras in eleifend lectus. Integer tempus, nunc id porttitor sagittis,  felis erat fringilla urna, non faucibus eros justo porttitor tortor. Etiam eget massa in elit egestas ultrices. Sed suscipit tellus sed augue faucibus, vitae laoreet diam commodo. Cras porta gravida metus, vitae vulputate libero pulvinar non. Integer dignissim, sem ultrices commodo pretium, erat velit tincidunt metus, id tristique nisi turpis at lorem.", 
-            "title": "subheader 3"
-        }, 
-        {
-            "location": "/example/#another-header", 
-            "text": "bold text  and  cursief text  a link  to my github  and much more possible, it is in markdown!!  markdown cheatsheet  a cool editor", 
-            "title": "another header"
-        }, 
-        {
             "location": "/Commands/", 
             "text": "Commands Plugin\n\n\nMee6 Custom Commands Plugin\n\n\nAdd or Manage your \nAWESOME\n Custom Commands!\n\n\nThe Custom Commands Plugin allow you to type a simple command and give a large explanation or a link without needing to copy/paste or type a bulk response each time.  \n\n\n\n\nTo add custom command follow these steps:\n\n\n1\n) Write the name you wish the command to have.\n\nIn the command name, you can only have: \nletters, numbers, - or _\n\nAlso you do not need to write \n!\n at start its added automatically.  \n\n\n2\n) Write the return text you wish for the bot to say.\n\nAt the current time, the bot cannot do special function; Only return messages.\n\nHowever this is planned to added as a feature to custom commands advanced.  \n\n\n\n\nThe advanced command plugin is a soon-to-be-released MAGIC plugin!\nIt will let you add some advanced commands with arguments like !your_command @someone @someoneelse\nYou'll also be able to trigger some actions like send_message, send_private_message, kick, add_role etc...\nAND one more thing... You'll be able to share your commands in a Public Command Hub so that other server managers can use them.\n\n\n\n\n3\n) Now you press the \nAdd\n button to save your command and add it to your Discord Server.\n\nTo use the command in chat, simple type \n!command_name\n and bot will send the response.  \n\n\nTo edit custom command\n\n\n\n\nIf you wish to modify an existing command.\n\n\n1\n) Edit your return response. (You currently cannot change command name.)\n\n\n2\n) Press \nEdit\n Button to save changes to command.  \n\n\nIf you wish to remove an existing command.\n\n\n3\n) Press the \nDelete\n button to delete (remove) an existing command.", 
             "title": "Custom Commands"
