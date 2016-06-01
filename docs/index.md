@@ -5,6 +5,7 @@
 * [Our discord server](https://discord.gg/0tOgeGSG9kVbtw7u)
 * [Mee6 Github page](https://github.com/cookkkie/mee6)
 * [the dashboard](http://mee6.xyz/servers) this is where you configure Mee6.
+* [realtime statistics](http://stats.mee6.xyz) for the nerds ;-)
 
 ##Star Features
 
