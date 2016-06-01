@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Mee6 documentation\n\n\nSome handy links\n\n\n\n\nOur discord server\n\n\nMee6 Github page\n\n\nthe dashboard\n this is where you configure Mee6.\n\n\n\n\nStar Features\n\n\n\n\n\n\n\n\nFeature\n\n\ndescription\n\n\n\n\n\n\n\n\n\n\nLevels\n\n\nLet your members gain \nXP\n and \nlevels\n by participating in the chat!\n\n\n\n\n\n\nCommands\n\n\nAdd and manage your \nAWESOME\n custom commands!\n\n\n\n\n\n\nAnimu and Mango\n\n\nSearch the web for your favorite animes and mangas.\n\n\n\n\n\n\nLogs\n\n\nKeep logs of all the messages in your server\n\n\n\n\n\n\n\n\n\n\nAND MUCH MORE\n\n\n\n\nWho made this?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHi, I'm \nCookie\n. I made the first version of Mee6 bot in 3 days.\n\n\n\n\n\n\n\n\nThis is \nv\u028c\u0131\n. He corrects all the silly english related mistakes that I make on the website and on the bot.\n\n\n\n\n\n\n\n\nThis is \nsans\n. He loves archlinux and he made the Git Repo plugin.", 
+            "text": "Mee6 documentation\n\n\nStar Features\n\n\n\n\n\n\n\n\nFeature\n\n\ndescription\n\n\n\n\n\n\n\n\n\n\nLevels\n\n\nLet your members gain \nXP\n and \nlevels\n by participating in the chat!\n\n\n\n\n\n\nCommands\n\n\nAdd and manage your \nAWESOME\n custom commands!\n\n\n\n\n\n\nAnimu and Mango\n\n\nSearch the web for your favorite animes and mangas.\n\n\n\n\n\n\nLogs\n\n\nKeep logs of all the messages in your server\n\n\n\n\n\n\n\n\nWho made this?\n\n\n\n\n\n\n\n\npic\n\n\ndescription\n\n\n\n\n\n\n\n\n\n\n\n\nHi, I'm \nCookie\n. I made the first version of Mee6 bot in 3 days.\n\n\n\n\n\n\n\n\nThis is \nv\u028c\u0131\n. He corrects all the silly english related mistakes that I make on the website and on the bot.\n\n\n\n\n\n\n\n\nThis is \nsans\n. He loves archlinux and he made the Git Repo plugin.", 
             "title": "Home"
         }, 
         {
@@ -11,18 +11,13 @@
             "title": "Mee6 documentation"
         }, 
         {
-            "location": "/#some-handy-links", 
-            "text": "Our discord server  Mee6 Github page  the dashboard  this is where you configure Mee6.", 
-            "title": "Some handy links"
-        }, 
-        {
             "location": "/#star-features", 
-            "text": "Feature  description      Levels  Let your members gain  XP  and  levels  by participating in the chat!    Commands  Add and manage your  AWESOME  custom commands!    Animu and Mango  Search the web for your favorite animes and mangas.    Logs  Keep logs of all the messages in your server      AND MUCH MORE", 
+            "text": "Feature  description      Levels  Let your members gain  XP  and  levels  by participating in the chat!    Commands  Add and manage your  AWESOME  custom commands!    Animu and Mango  Search the web for your favorite animes and mangas.    Logs  Keep logs of all the messages in your server", 
             "title": "Star Features"
         }, 
         {
             "location": "/#who-made-this", 
-            "text": "Hi, I'm  Cookie . I made the first version of Mee6 bot in 3 days.     This is  v\u028c\u0131 . He corrects all the silly english related mistakes that I make on the website and on the bot.     This is  sans . He loves archlinux and he made the Git Repo plugin.", 
+            "text": "pic  description       Hi, I'm  Cookie . I made the first version of Mee6 bot in 3 days.     This is  v\u028c\u0131 . He corrects all the silly english related mistakes that I make on the website and on the bot.     This is  sans . He loves archlinux and he made the Git Repo plugin.", 
             "title": "Who made this?"
         }, 
         {
@@ -52,32 +47,32 @@
         }, 
         {
             "location": "/Commands/", 
-            "text": "Commands Plugin\n\n\nMee6 Custom Commands Plugin\n\n\nAdd or Manage your \nAWESOME\n Custom Commands!\n\n\nThe Custom Commands Plugin allow you to type a simple command and give a large explanation or a link without needing to copy/paste or type a bulk response each time.  \n\n\n\n\nTo add custom command follow these steps:\n\n\n1\n) Write the name you wish the command to have.\n\nIn the command name, you can only have: \nletters, numbers, - or _\n\nAlso you do not need to write \n!\n at start its added automatically.  \n\n\n2\n) Write the return text you wish for the bot to say.\n\nAt the current time, the bot cannot do special function; Only return messages.\n\nHowever this is planned to added as a feature to custom commands advanced.  \n\n\n\n\nThe advanced command plugin is a soon-to-be-released MAGIC plugin!\nIt will let you add some advanced commands with arguments like !your_command @someone @someoneelse\nYou'll also be able to trigger some actions like send_message, send_private_message, kick, add_role etc...\nAND one more thing... You'll be able to share your commands in a Public Command Hub so that other server managers can use them.\n\n\n\n\n3\n) Now you press the \nAdd\n button to save your command and add it to your Discord Server.\n\nTo use the command in chat, simple type \n!command_name\n and bot will send the response.  \n\n\nTo edit custom command\n\n\n\n\nIf you wish to modify an existing command.\n\n\n1\n) Edit your return response. (You currently cannot change command name.)\n\n\n2\n) Press \nEdit\n Button to save changes to command.  \n\n\nIf you wish to remove an existing command.\n\n\n3\n) Press the \nDelete\n button to delete (remove) an existing command.", 
+            "text": "Commands\n\n\ncustom commands\n\n\nAdd or manage your \nAWESOME\n custom commands !\n\n\nCustom commands allow you to type a simple command and give a large explenation or a link without having to type a lot or searching the link.\n\n\n\n\nTo add custom command follow these steps:\n\n\n1) Write name of command.\nIn name can only be: \nletters, numbers, - or _\n\nIn name can't be: spaces and all other stuff\nAnd you don't need to write \n!\n at start its added automatically\n\n\n2) Write text bot will say after command was told in chat.\nFor now bot can't do stuff like kick, give auto-role or etc...\nBut it is planed to add this features to custom commands.\n\nThe advanced command plugin is a soon-to-be-released MAGIC plugin!\nIt will let you add some advanced commands with arguments like !your_command @someone @someoneelse\nYou'll also be able to trigger some actions like send_message, send_private_message, kick, add_role etc...\nAND one more thing... You'll be able to share your commands in a Public Command Hub so that other server managers can use them.\n\n\n3) Now you need to press \nAdd\n button to save command and add it to server.\nTo use command in chat type \n!command_name\n and bot will respond.\n\n\nTo edit custom command\n\n\n\n\n1) Edit your answer message. (you cant edit name)\n\n\n2) Press \nEdit\n Button to save changes to command.\n\n\n3) Press \nDelete\n button to delete (remove) command.", 
             "title": "Custom Commands"
         }, 
         {
-            "location": "/Commands/#commands-plugin", 
+            "location": "/Commands/#commands", 
             "text": "", 
-            "title": "Commands Plugin"
+            "title": "Commands"
         }, 
         {
-            "location": "/Commands/#mee6-custom-commands-plugin", 
+            "location": "/Commands/#custom-commands", 
             "text": "", 
-            "title": "Mee6 Custom Commands Plugin"
+            "title": "custom commands"
         }, 
         {
             "location": "/Commands/#add-or-manage-your-awesome-custom-commands", 
-            "text": "The Custom Commands Plugin allow you to type a simple command and give a large explanation or a link without needing to copy/paste or type a bulk response each time.", 
-            "title": "Add or Manage your AWESOME Custom Commands!"
+            "text": "Custom commands allow you to type a simple command and give a large explenation or a link without having to type a lot or searching the link.", 
+            "title": "Add or manage your AWESOME custom commands !"
         }, 
         {
             "location": "/Commands/#to-add-custom-command-follow-these-steps", 
-            "text": "1 ) Write the name you wish the command to have. \nIn the command name, you can only have:  letters, numbers, - or _ \nAlso you do not need to write  !  at start its added automatically.    2 ) Write the return text you wish for the bot to say. \nAt the current time, the bot cannot do special function; Only return messages. \nHowever this is planned to added as a feature to custom commands advanced.     The advanced command plugin is a soon-to-be-released MAGIC plugin!\nIt will let you add some advanced commands with arguments like !your_command @someone @someoneelse\nYou'll also be able to trigger some actions like send_message, send_private_message, kick, add_role etc...\nAND one more thing... You'll be able to share your commands in a Public Command Hub so that other server managers can use them.   3 ) Now you press the  Add  button to save your command and add it to your Discord Server. \nTo use the command in chat, simple type  !command_name  and bot will send the response.", 
+            "text": "1) Write name of command.\nIn name can only be:  letters, numbers, - or _ \nIn name can't be: spaces and all other stuff\nAnd you don't need to write  !  at start its added automatically  2) Write text bot will say after command was told in chat.\nFor now bot can't do stuff like kick, give auto-role or etc...\nBut it is planed to add this features to custom commands. The advanced command plugin is a soon-to-be-released MAGIC plugin!\nIt will let you add some advanced commands with arguments like !your_command @someone @someoneelse\nYou'll also be able to trigger some actions like send_message, send_private_message, kick, add_role etc...\nAND one more thing... You'll be able to share your commands in a Public Command Hub so that other server managers can use them.  3) Now you need to press  Add  button to save command and add it to server.\nTo use command in chat type  !command_name  and bot will respond.", 
             "title": "To add custom command follow these steps:"
         }, 
         {
             "location": "/Commands/#to-edit-custom-command", 
-            "text": "If you wish to modify an existing command.  1 ) Edit your return response. (You currently cannot change command name.)  2 ) Press  Edit  Button to save changes to command.    If you wish to remove an existing command.  3 ) Press the  Delete  button to delete (remove) an existing command.", 
+            "text": "1) Edit your answer message. (you cant edit name)  2) Press  Edit  Button to save changes to command.  3) Press  Delete  button to delete (remove) command.", 
             "title": "To edit custom command"
         }
     ]
