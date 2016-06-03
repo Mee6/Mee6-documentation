@@ -1,3 +1,5 @@
+!!! Read
+    This is just a page with a graph and a table with the levels/xp comparison
 
 ![xp needed to level up](pics/xp_level_up.png)
 ![total xp to get this level](pics/total_xp_level.png)
@@ -110,3 +112,7 @@
 |99	|54055	|1845195|
 |100|55100	|1899250|
 |level	|xp needed to level up	|needed to get this level(total xp)|
+
+!!! formula
+    a formula to calculate how much xp you need for the next level is `5 * (lvl ^ 2) + 50 * lvl + 100`
+    with your current level as lvl
