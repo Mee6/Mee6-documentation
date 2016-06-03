@@ -13,4 +13,5 @@ pages:
 #  - Example: example.md
   - Custom Commands: Commands.md
   - Levels plugin: Levels.md
+  - xp per level: levelxp.md
   - Moderator plugin: Moderator.md
