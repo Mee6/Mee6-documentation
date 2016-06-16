@@ -11,6 +11,7 @@ markdown_extensions:
 pages:
   - Home: index.md
 #  - Example: example.md
+  - How to add and use bot: Mr. Mee6.md
   - Custom Commands: Commands.md
   - Levels plugin: Levels.md
   - xp per level: levelxp.md
