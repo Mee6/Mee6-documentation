@@ -22,7 +22,7 @@ To select server press circle with server image then you should get to your dash
 >+ Go back to website and at right top corner you should see your name press it and press logout, now you should see at same place login button press it and press authorize again, now go to https://mee6.xyz/servers and select server you wanted to get dashboard. Now dashboard bug should be fixed if you still can't get to dashboard contact [support](https://discord.gg/0tOgeGSG9kYFepgL)
 
 ![dashboard](pics/dashboard.png)
-
+###How to use Mee6
 Now you are at dashboard here you can enable plugin you want to use whit bot.
 To enable plugin press on plugin and press button `Enable` 
 Then you will get plugin setting change them to what you want and you are done now you can use bot without any difficulty. If you have any problems or questions contact [support](https://discord.gg/0tOgeGSG9kYFepgL)
