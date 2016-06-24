@@ -1,56 +1,48 @@
 #Levels
-##Let your members gain **xp** and **levels** by participating in the chat !
+##Let Your Members Gain **Experience** and **Levels** by Participating in The Chat !
 ###Setup:
-Go to [Mee6 dashboard](https://mee6.xyz/servers) and select your server.
-Now select `levels`-plugin.
-You will see this: 
-![levelmessage](pics/levelmsg.png)
+Go to [Mee6 Dashboard](https://mee6.xyz/servers) and select your server.  
+Select the `Levels` Plugin.  
+You should now see:
+![level_message](pics/levelmsg.png)
+  
+1) This message is shown upon Leveling Up, Modify this to how you desire.  
+> {player} Will display the Discord User in a Mention; {level} Will display the New Level in Numeric Form (1,2,3)  
 
-1) This text will be writed by bot when someone will get level up.
-you can set your own message here and use {player} and {level} as variablen.
+2) Enabling `Send in whisper`, will cause Mee6 to DirectMessage the player directly instead of a public chat.  
 
-2) If you enable `Send in whisper` then mee6 will send the level up msg to the player in a DM(Direct message or whisper).
+3) If `!rank` or `!rank @some_user` is used to often, you can enable this for time (in seconds) you wish for them to have to wait.  
 
-3) Some spam the `!rank` command, you can set here how long they need to wait between 2 `!rank` commands.
+4) Here you can set `Black Listed` roles to not gain Experience.  
+> Let's say that you got a couple of bots or people who spam for levels in your server and you do not want them to gain Experience; Try giving them "Bots" or "Spammer" role and blacklist that role after.  
 
-4) Here you can set the roles that will not get xp.
-Let's say that you got a couple of bots in your server. You don't want them do gain xp, right? So add the roles of your bots here.
-Or to let spammers stop: create a role `no xp` and set that in here, when someome start spamming chat give them this role.
+5) To save any changes, press `Update` near the end of the page.  
+  
+##Role Rewards
+###Setup
+  
+####Mee6 Role and Required Permissions
 
-5) To save changes press the `Update` button at the bottom of the page.
+![Level Bot Role](pics/levelbotrole.png)
 
-##Role reward
-###setup
-####mee6 role and needed permissions
+1) Locate your Roles and give Mee6 or your varient of "Bots" Role the permission `Manage Roles`  
+> Manage Roles is Required to allow Mee6 to apply the roles from rewards to the user.
+Mee6's Bot Role is Required to be higher than the roles it is applying to users. (Per Discord's newer "Role Hierarchy" System)
 
-![level bot role](pics/levelbotrole.png)
-
-(for role setting in discord: menu symbol next to server name=>server settings=>roles)
-to let this work you need to make sure that Mee6 has `manage roles` in one of his ranks and that Mee6 has a rank higher then de ranks he needs to give.
-In the example has Mee6 the Mee6 ranks wich has `manage roles`-premission, but he also has the bot rank which is higher then the ranks he need to give.
-We could give the bot rank here the manage roles and remove the Mee6 rank, it would still work the same.
-
-###setup role reward
-
-![reward role](pics/levelrewardrole.png)
-
-first you will have to create a role to give, what you add to your role is completly your choise(color, more permissions, ....).
-Again, make sure that Mee6 has at least 1 role that is higher in the list then the role that you want to give as reward.
-
-####How to setup role reward at dashboard
-Now go back to your dashboard=>level-plugin and scroll down.
-![reward dashboard](pics/rewarddash.png)
-
-> (the order of the roles shown here is the order that these roles where made)
-
+###Setup Role Reward
+![Reward Role](pics/levelrewardrole.png)
+  
+> Create the `Role` how you wish and Modify/Customize it's Names, Colors, Permissions, and Everything Else.
+  
+####Applying Role Rewards in the Dashboard
+Now, Open your Dashboard and Navigate to the `Levels` Plugin Page.
+![Reward Dashboard](pics/rewarddash.png)
+> The Order here is Dependant on the order the Roles are Created!
+  
 1) Find the roles that you want to give as rewards.
-
 2) Choose the level that people need to earn this role.
-
 3) When your done press the `Update` button.
-
-!!! if you have already a lot of users that will earn reward directly then wait after pressing the done button, Mee6 can only give 10 roles a minute in each server because of discord limitations for bots! He will als not be able to respond to normal commands while aplying big groups of roles.
-
-```
-Disclaimer: When a role is given as a reward, it can only be removed manually!
-```
+  
+!!! If you apply a Role with a `Large Number of Discord Users`, it may take quite a while (Due to Discord Limitations of `10 Roles/60 Seconds`) to Update every user with the New Role. (Please Contact Support if all your users do not have the Roles they should after a 24 Hours at most.)
+  
+!!!Disclaimer: When a role is given as a reward, it can only be removed manually!
