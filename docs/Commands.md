@@ -1,11 +1,11 @@
 #Commands Plugin
 ##Mee6 Custom Commands Plugin
-###Add or Manage your **AWESOME** Custom Commands!
+###Add or Manage Your **AWESOME** Custom Commands!
 The Custom Commands Plugin allow you to type a simple command and give a large explanation or a link without needing to copy/paste or type a bulk response each time.  
   
 ![add_commands](pics/commands.png)
   
-###To add custom command follow these steps:
+###To Add a Custom Command Follow These Steps:
   
 **1**) Write the name you wish the command to have.  
 In the command name, you can only have: `letters, numbers, - or _`  
@@ -23,7 +23,7 @@ However, this is planned to be added as a feature to advanced commands that will
 **3**) Now you press the `Add` button to save your command and add it to your Discord Server.  
 To use the command in chat, simple type `!command_name` and the bot will send the response.  
   
-###To edit custom command  
+###To Edit Custom Commands  
 ![edit_commands](pics/commands_edit.png)
   
 If you wish to modify an existing command.  
