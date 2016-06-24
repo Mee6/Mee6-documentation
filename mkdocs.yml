@@ -1,4 +1,4 @@
-site_name: Mee6 documentation
+site_name: Mee6 Documentation
 site_url: http://SilBoydens.github.io/Mee6-documentation
 repo_url: https://github.com/SilBoydens/Mee6-documentation
 repo_name: GitHub
@@ -13,5 +13,5 @@ pages:
 #  - Example: example.md
   - Custom Commands: Commands.md
   - Levels plugin: Levels.md
-  - xp per level: levelxp.md
+  - Experience Per Level: levelxp.md
   - Moderator plugin: Moderator.md
