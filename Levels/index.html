@@ -3,12 +3,9 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <meta name="author" content="Sil Boydens">
-  
-  <title>Levels plugin - Mee6 documentation</title>
+  <title>Levels plugin - Mee6 Documentation</title>
   
 
   <link rel="shortcut icon" href="../img/favicon.ico">
@@ -26,8 +23,6 @@
   <script>
     // Current page data
     var mkdocs_page_name = "Levels plugin";
-    var mkdocs_page_input_path = "Levels.md";
-    var mkdocs_page_url = "/Levels/";
   </script>
   
   <script src="../js/jquery-2.1.1.min.js"></script>
@@ -49,7 +44,7 @@
     
     <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
       <div class="wy-side-nav-search">
-        <a href=".." class="icon icon-home"> Mee6 documentation</a>
+        <a href=".." class="icon icon-home"> Mee6 Documentation</a>
         <div role="search">
   <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
     <input type="text" name="q" placeholder="Search docs" />
@@ -82,9 +77,9 @@
             
                 <li class="toctree-l3"><a href="#levels">Levels</a></li>
                 
-                    <li><a class="toctree-l4" href="#let-your-members-gain-xp-and-levels-by-participating-in-the-chat">Let your members gain xp and levels by participating in the chat !</a></li>
+                    <li><a class="toctree-l4" href="#let-your-members-gain-experience-and-levels-by-participating-in-the-chat">Let Your Members Gain Experience and Levels by Participating in The Chat !</a></li>
                 
-                    <li><a class="toctree-l4" href="#role-reward">Role reward</a></li>
+                    <li><a class="toctree-l4" href="#role-rewards">Role Rewards</a></li>
                 
             
             </ul>
@@ -94,7 +89,7 @@
           
             <li>
     <li class="toctree-l1 ">
-        <a class="" href="../levelxp/">xp per level</a>
+        <a class="" href="../levelxp/">Experience Per Level</a>
         
     </li>
 <li>
@@ -116,7 +111,7 @@
       
       <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
         <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
-        <a href="..">Mee6 documentation</a>
+        <a href="..">Mee6 Documentation</a>
       </nav>
 
       
@@ -143,47 +138,54 @@
             <div class="section">
               
                 <h1 id="levels">Levels</h1>
-<h2 id="let-your-members-gain-xp-and-levels-by-participating-in-the-chat">Let your members gain <strong>xp</strong> and <strong>levels</strong> by participating in the chat !</h2>
+<h2 id="let-your-members-gain-experience-and-levels-by-participating-in-the-chat">Let Your Members Gain <strong>Experience</strong> and <strong>Levels</strong> by Participating in The Chat !</h2>
 <h3 id="setup">Setup:</h3>
-<p>Go to <a href="https://mee6.xyz/servers">Mee6 dashboard</a> and select your server.
-Now select <code>levels</code>-plugin.
-You will see this: 
-<img alt="levelmessage" src="../pics/levelmsg.png" /></p>
-<p>1) This text will be writed by bot when someone will get level up.
-you can set your own message here and use {player} and {level} as variablen.</p>
-<p>2) If you enable <code>Send in whisper</code> then mee6 will send the level up msg to the player in a DM(Direct message or whisper).</p>
-<p>3) Some spam the <code>!rank</code> command, you can set here how long they need to wait between 2 <code>!rank</code> commands.</p>
-<p>4) Here you can set the roles that will not get xp.
-Let's say that you got a couple of bots in your server. You don't want them do gain xp, right? So add the roles of your bots here.
-Or to let spammers stop: create a role <code>no xp</code> and set that in here, when someome start spamming chat give them this role.</p>
-<p>5) To save changes press the <code>Update</code> button at the bottom of the page.</p>
-<h2 id="role-reward">Role reward</h2>
-<h3 id="setup_1">setup</h3>
-<h4 id="mee6-role-and-needed-permissions">mee6 role and needed permissions</h4>
-<p><img alt="level bot role" src="../pics/levelbotrole.png" /></p>
-<p>(for role setting in discord: menu symbol next to server name=&gt;server settings=&gt;roles)
-to let this work you need to make sure that Mee6 has <code>manage roles</code> in one of his ranks and that Mee6 has a rank higher then de ranks he needs to give.
-In the example has Mee6 the Mee6 ranks wich has <code>manage roles</code>-premission, but he also has the bot rank which is higher then the ranks he need to give.
-We could give the bot rank here the manage roles and remove the Mee6 rank, it would still work the same.</p>
-<h3 id="setup-role-reward">setup role reward</h3>
-<p><img alt="reward role" src="../pics/levelrewardrole.png" /></p>
-<p>first you will have to create a role to give, what you add to your role is completly your choise(color, more permissions, ....).
-Again, make sure that Mee6 has at least 1 role that is higher in the list then the role that you want to give as reward.</p>
-<h4 id="how-to-setup-role-reward-at-dashboard">How to setup role reward at dashboard</h4>
-<p>Now go back to your dashboard=&gt;level-plugin and scroll down.
-<img alt="reward dashboard" src="../pics/rewarddash.png" /></p>
+<p>Go to <a href="https://mee6.xyz/servers">Mee6 Dashboard</a> and select your server.<br />
+Select the <code>Levels</code> Plugin.<br />
+You should now see:
+<img alt="level_message" src="../pics/levelmsg.png" /></p>
+<p>1) This message is shown upon Leveling Up, Modify this to how you desire.  </p>
 <blockquote>
-<p>(the order of the roles shown here is the order that these roles where made)</p>
+<p>{player} Will display the Discord User in a Mention; {level} Will display the New Level in Numeric Form (1,2,3)  </p>
 </blockquote>
-<p>1) Find the roles that you want to give as rewards.</p>
-<p>2) Choose the level that people need to earn this role.</p>
-<p>3) When your done press the <code>Update</code> button.</p>
+<p>2) Enabling <code>Send in whisper</code>, will cause Mee6 to DirectMessage the player directly instead of a public chat.  </p>
+<p>3) If <code>!rank</code> or <code>!rank @some_user</code> is used to often, you can enable this for time (in seconds) you wish for them to have to wait.  </p>
+<p>4) Here you can set <code>Black Listed</code> roles to not gain Experience.  </p>
+<blockquote>
+<p>Let's say that you got a couple of bots or people who spam for levels in your server and you do not want them to gain Experience; Try giving them "Bots" or "Spammer" role and blacklist that role after.  </p>
+</blockquote>
+<p>5) To save any changes, press <code>Update</code> near the end of the page.  </p>
+<h2 id="role-rewards">Role Rewards</h2>
+<h3 id="setup_1">Setup</h3>
+<h4 id="mee6-role-and-required-permissions">Mee6 Role and Required Permissions</h4>
+<p><img alt="Level Bot Role" src="../pics/levelbotrole.png" /></p>
+<p>1) Locate your Roles and give Mee6 or your varient of "Bots" Role the permission <code>Manage Roles</code>  </p>
+<blockquote>
+<p>Manage Roles is Required to allow Mee6 to apply the roles from rewards to the user.
+Mee6's Bot Role is Required to be higher than the roles it is applying to users. (Per Discord's newer "Role Hierarchy" System)</p>
+</blockquote>
+<h3 id="setup-role-reward">Setup Role Reward</h3>
+<p><img alt="Reward Role" src="../pics/levelrewardrole.png" /></p>
+<blockquote>
+<p>Create the <code>Role</code> how you wish and Modify/Customize it's Names, Colors, Permissions, and Everything Else.</p>
+</blockquote>
+<h4 id="applying-role-rewards-in-the-dashboard">Applying Role Rewards in the Dashboard</h4>
+<p>Now, Open your Dashboard and Navigate to the <code>Levels</code> Plugin Page.
+<img alt="Reward Dashboard" src="../pics/rewarddash.png" /></p>
+<blockquote>
+<p>The Order here is Dependant on the order the Roles are Created!</p>
+</blockquote>
+<p>1) Find the roles that you want to give as rewards.
+2) Choose the level that people need to earn this role.
+3) When your done press the <code>Update</code> button.</p>
 <div class="admonition if">
 <p class="admonition-title">If</p>
 </div>
-<p>you have already a lot of users that will earn reward directly then wait after pressing the done button, Mee6 can only give 10 roles a minute in each server because of discord limitations for bots! He will als not be able to respond to normal commands while aplying big groups of roles.</p>
-<pre><code>Disclaimer: When a role is given as a reward, it can only be removed manually!
-</code></pre>
+<p>you apply a Role with a <code>Large Number of Discord Users</code>, it may take quite a while (Due to Discord Limitations of <code>10 Roles/60 Seconds</code>) to Update every user with the New Role. (Please Contact Support if all your users do not have the Roles they should after a 24 Hours at most.)</p>
+<div class="admonition disclaimer">
+<p class="admonition-title">Disclaimer</p>
+</div>
+<p>When a role is given as a reward, it can only be removed manually!</p>
               
             </div>
           </div>
@@ -191,7 +193,7 @@ Again, make sure that Mee6 has at least 1 role that is higher in the list then t
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="../levelxp/" class="btn btn-neutral float-right" title="xp per level">Next <span class="icon icon-circle-arrow-right"></span></a>
+        <a href="../levelxp/" class="btn btn-neutral float-right" title="Experience Per Level"/>Next <span class="icon icon-circle-arrow-right"></span></a>
       
       
         <a href="../Commands/" class="btn btn-neutral" title="Custom Commands"><span class="icon icon-circle-arrow-left"></span> Previous</a>
@@ -219,7 +221,7 @@ Again, make sure that Mee6 has at least 1 role that is higher in the list then t
 <div class="rst-versions" role="note" style="cursor: pointer">
     <span class="rst-current-version" data-toggle="rst-current-version">
       
-          <a href="https://github.com/SilBoydens/Mee6-documentation" class="icon icon-github" style="float: left; color: #fcfcfc"> GitHub</a>
+          <a class="icon icon-github" style="float: left; color: #fcfcfc"> GitHub</a>
       
       
         <span><a href="../Commands/" style="color: #fcfcfc;">&laquo; Previous</a></span>
