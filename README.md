@@ -7,7 +7,7 @@
 * [the dashboard](http://mee6.xyz/servers) this is where you configure Mee6.
 * [realtime statistics](http://stats.mee6.xyz) for the nerds ;-)
 
-<img src="https://github.com/TheOfficialDoc/Mee6-documentation/blob/master/docs/pics/cggk7y9%5B1%5D.png?raw=true">
+<img src="docs/pics/cggk7y9%5B1%5D.png?raw=true">
 
 |Ludicrous Feature|Description|
 |-------|-----------|
