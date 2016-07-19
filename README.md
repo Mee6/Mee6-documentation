@@ -7,7 +7,7 @@
 * [the dashboard](http://mee6.xyz/servers) this is where you configure Mee6.
 * [realtime statistics](http://stats.mee6.xyz) for the nerds ;-)
 
-<img src="https://github.com/TheOfficialDoc/Mee6-documentation/blob/master/docs/pics/cggk7y9%5B1%5D.png?raw=true">
+<img src="https://github.com/SilBoydens/Mee6-documentation/blob/master/docs/pics/cggk7y9%5B1%5D.png?raw=true">
 
 |Ludicrous Feature|Description|
 |-------|-----------|
@@ -26,21 +26,21 @@
 ##Who made this?
 
 <p align="center">
-<img src="docs/pics/cookie.jpg?raw=true">
+<img src="https://github.com/SilBoydens/Mee6-documentation/blob/master/docs/pics/cookie.jpg?raw=true">
 </p>
 <p align="center">
 Hi, I'm <b>Cookie</b>. I made the first version of Mee6 bot in 3 days.
 </p>
 
 <p align="center">
-<img src="docs/pics/vai.jpg?raw=true">
+<img src="https://github.com/SilBoydens/Mee6-documentation/blob/master/docs/pics/vai.jpg?raw=true">
 </p>
 <p align="center">
 This is <b>vʌı</b>. He corrects all the silly english related mistakes that I make on the website and on the bot.
 </p>
 
 <p align="center">
-<img src="docs/pics/sans.jpg?raw=true">
+<img src="https://github.com/SilBoydens/Mee6-documentation/blob/master/docs/pics/sans.jpg?raw=true">
 </p>
 
 <p align="center">
