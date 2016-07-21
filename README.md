@@ -1,5 +1,4 @@
 # Mee6 documentation
-[![HTML5](http://forthebadge.com/images/badges/uses-html.svg)]() [![JS](http://forthebadge.com/images/badges/uses-js.svg)]()
 ###Some handy links
 
 * Discord server: [<img src="https://discordapp.com/api/servers/159962941502783488/widget.png?style=banner5">](https://discord.gg/0tOgeGSG9kV0jasj)
