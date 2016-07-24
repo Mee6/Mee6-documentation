@@ -1,104 +1,189 @@
 {
     "docs": [
         {
-            "location": "/",
-            "text": "Mee6 documentation\n\n\nSome handy links\n\n\n\n\nOur discord server\n\n\nMee6 Github page\n\n\nthe dashboard\n this is where you configure Mee6.\n\n\nrealtime statistics\n for the nerds ;-)\n\n\n\n\nStar Features\n\n\n\n\n\n\n\n\nFeature\n\n\ndescription\n\n\n\n\n\n\n\n\n\n\nLevels\n\n\nLet your members gain \nXP\n and \nlevels\n by participating in the chat!\n\n\n\n\n\n\nCommands\n\n\nAdd and manage your \nAWESOME\n custom commands!\n\n\n\n\n\n\nAnimu and Mango\n\n\nSearch the web for your favorite animes and mangas.\n\n\n\n\n\n\nLogs\n\n\nKeep logs of all the messages in your server\n\n\n\n\n\n\n\n\n\n\nAND MUCH MORE\n\n\n\n\nWho made this?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHi, I'm \nCookie\n. I made the first version of Mee6 bot in 3 days.\n\n\n\n\n\n\n\n\nThis is \nv\u028c\u0131\n. He corrects all the silly english related mistakes that I make on the website and on the bot.\n\n\n\n\n\n\n\n\nThis is \nsans\n. He loves archlinux and he made the Git Repo plugin.",
+            "location": "/", 
+            "text": "Mee6 documentation\n\n\nSome handy links\n\n\n\n\nOur discord server\n\n\nMee6 Github page\n\n\nthe dashboard\n this is where you configure Mee6.\n\n\nrealtime statistics\n for the nerds ;-)\n\n\n\n\nStar Features\n\n\n\n\n\n\n\n\nFeature\n\n\ndescription\n\n\n\n\n\n\n\n\n\n\nLevels\n\n\nLet your members gain \nXP\n and \nlevels\n by participating in the chat!\n\n\n\n\n\n\nCommands\n\n\nAdd and manage your \nAWESOME\n custom commands!\n\n\n\n\n\n\nAnimu and Mango\n\n\nSearch the web for your favorite animes and mangas.\n\n\n\n\n\n\nLogs\n\n\nKeep logs of all the messages in your server\n\n\n\n\n\n\n\n\n\n\nAND MUCH MORE\n\n\n\n\nWho made this?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHi, I'm \nCookie\n. I made the first version of Mee6 bot in 3 days.\n\n\n\n\n\n\n\n\nThis is \nv\u028c\u0131\n. He corrects all the silly english related mistakes that I make on the website and on the bot.\n\n\n\n\n\n\n\n\nThis is \nsans\n. He loves archlinux and he made the Git Repo plugin.", 
             "title": "Home"
-        },
+        }, 
         {
-            "location": "/#mee6-documentation",
-            "text": "Some handy links   Our discord server  Mee6 Github page  the dashboard  this is where you configure Mee6.  realtime statistics  for the nerds ;-)",
+            "location": "/#mee6-documentation", 
+            "text": "", 
             "title": "Mee6 documentation"
-        },
+        }, 
         {
-            "location": "/#star-features",
-            "text": "Feature  description      Levels  Let your members gain  XP  and  levels  by participating in the chat!    Commands  Add and manage your  AWESOME  custom commands!    Animu and Mango  Search the web for your favorite animes and mangas.    Logs  Keep logs of all the messages in your server      AND MUCH MORE",
+            "location": "/#some-handy-links", 
+            "text": "Our discord server  Mee6 Github page  the dashboard  this is where you configure Mee6.  realtime statistics  for the nerds ;-)", 
+            "title": "Some handy links"
+        }, 
+        {
+            "location": "/#star-features", 
+            "text": "Feature  description      Levels  Let your members gain  XP  and  levels  by participating in the chat!    Commands  Add and manage your  AWESOME  custom commands!    Animu and Mango  Search the web for your favorite animes and mangas.    Logs  Keep logs of all the messages in your server      AND MUCH MORE", 
             "title": "Star Features"
-        },
+        }, 
         {
-            "location": "/#who-made-this",
-            "text": "Hi, I'm  Cookie . I made the first version of Mee6 bot in 3 days.     This is  v\u028c\u0131 . He corrects all the silly english related mistakes that I make on the website and on the bot.     This is  sans . He loves archlinux and he made the Git Repo plugin.",
+            "location": "/#who-made-this", 
+            "text": "Hi, I'm  Cookie . I made the first version of Mee6 bot in 3 days.     This is  v\u028c\u0131 . He corrects all the silly english related mistakes that I make on the website and on the bot.     This is  sans . He loves archlinux and he made the Git Repo plugin.", 
             "title": "Who made this?"
-        },
+        }, 
         {
-            "location": "/Commands/",
-            "text": "Commands Plugin\n\n\nMee6 Custom Commands Plugin\n\n\nAdd or Manage Your \nAWESOME\n Custom Commands!\n\n\nThe Custom Commands Plugin allow you to type a simple command and give a large explanation or a link without needing to copy/paste or type a bulk response each time.  \n\n\n\n\nTo Add a Custom Command Follow These Steps:\n\n\n1\n) Write the name you wish the command to have.\n\nIn the command name, you can only have: \nletters, numbers, - or _\n\nAlso, you do not need to write \n!\n at the start it's added automatically.  \n\n\n2\n) Write the return text you wish for the bot to say.\n\nAt the current time, the bot cannot do special function; Only return messages.\n\nHowever, this is planned to be added as a feature to advanced commands that will come in the future.  \n\n\n\n\nThe advanced command plugin is a \nnot-so-soon-to-be-released\n MAGIC plugin!\nIt will let you add some advanced commands with arguments like !your_command @someone @someoneelse\nYou'll also be able to trigger some actions like send_message, send_private_message, kick, add_role etc...\nAND one more thing... You'll be able to share your commands in a \nPublic Command Hub\n so that other server managers can use them.\n\n\n\n\n3\n) Now you press the \nAdd\n button to save your command and add it to your Discord Server.\n\nTo use the command in chat, simple type \n!command_name\n and the bot will send the response.  \n\n\nTo Edit Custom Commands\n\n\n\n\nIf you wish to modify an existing command.\n\n\n1\n) Edit your return response. (You currently cannot change command name.)\n\n\n2\n) Press \nEdit\n Button to save changes to command.  \n\n\nIf you wish to remove an existing command.\n\n\n3\n) Press the \nDelete\n button to delete (remove) an existing command.",
+            "location": "/Commands/", 
+            "text": "Commands Plugin\n\n\nMee6 Custom Commands Plugin\n\n\nAdd or Manage Your \nAWESOME\n Custom Commands!\n\n\nThe Custom Commands Plugin allow you to type a simple command and give a large explanation or a link without needing to copy/paste or type a bulk response each time.  \n\n\n\n\nTo Add a Custom Command Follow These Steps:\n\n\n1\n) Write the name you wish the command to have.\n\nIn the command name, you can only have: \nletters, numbers, - or _\n\nAlso, you do not need to write \n!\n at the start it's added automatically.  \n\n\n2\n) Write the return text you wish for the bot to say.\n\nAt the current time, the bot cannot do special function; Only return messages.\n\nHowever, this is planned to be added as a feature to advanced commands that will come in the future.  \n\n\n\n\nThe advanced command plugin is a \nnot-so-soon-to-be-released\n MAGIC plugin!\nIt will let you add some advanced commands with arguments like !your_command @someone @someoneelse\nYou'll also be able to trigger some actions like send_message, send_private_message, kick, add_role etc...\nAND one more thing... You'll be able to share your commands in a \nPublic Command Hub\n so that other server managers can use them.\n\n\n\n\n3\n) Now you press the \nAdd\n button to save your command and add it to your Discord Server.\n\nTo use the command in chat, simple type \n!command_name\n and the bot will send the response.  \n\n\nTo Edit Custom Commands\n\n\n\n\nIf you wish to modify an existing command.\n\n\n1\n) Edit your return response. (You currently cannot change command name.)\n\n\n2\n) Press \nEdit\n Button to save changes to command.  \n\n\nIf you wish to remove an existing command.\n\n\n3\n) Press the \nDelete\n button to delete (remove) an existing command.", 
             "title": "Custom Commands"
-        },
+        }, 
         {
-            "location": "/Commands/#commands-plugin",
-            "text": "",
+            "location": "/Commands/#commands-plugin", 
+            "text": "", 
             "title": "Commands Plugin"
-        },
+        }, 
         {
-            "location": "/Commands/#mee6-custom-commands-plugin",
-            "text": "Add or Manage Your  AWESOME  Custom Commands!  The Custom Commands Plugin allow you to type a simple command and give a large explanation or a link without needing to copy/paste or type a bulk response each time.     To Add a Custom Command Follow These Steps:  1 ) Write the name you wish the command to have. \nIn the command name, you can only have:  letters, numbers, - or _ \nAlso, you do not need to write  !  at the start it's added automatically.    2 ) Write the return text you wish for the bot to say. \nAt the current time, the bot cannot do special function; Only return messages. \nHowever, this is planned to be added as a feature to advanced commands that will come in the future.     The advanced command plugin is a  not-so-soon-to-be-released  MAGIC plugin!\nIt will let you add some advanced commands with arguments like !your_command @someone @someoneelse\nYou'll also be able to trigger some actions like send_message, send_private_message, kick, add_role etc...\nAND one more thing... You'll be able to share your commands in a  Public Command Hub  so that other server managers can use them.   3 ) Now you press the  Add  button to save your command and add it to your Discord Server. \nTo use the command in chat, simple type  !command_name  and the bot will send the response.    To Edit Custom Commands   If you wish to modify an existing command.  1 ) Edit your return response. (You currently cannot change command name.)  2 ) Press  Edit  Button to save changes to command.    If you wish to remove an existing command.  3 ) Press the  Delete  button to delete (remove) an existing command.",
+            "location": "/Commands/#mee6-custom-commands-plugin", 
+            "text": "", 
             "title": "Mee6 Custom Commands Plugin"
-        },
+        }, 
         {
-            "location": "/Levels/",
-            "text": "Levels\n\n\nLet Your Members Gain \nExperience\n and \nLevels\n by Participating in The Chat !\n\n\nSetup:\n\n\nGo to \nMee6 Dashboard\n and select your server.\n\nSelect the \nLevels\n Plugin.\n\nYou should now see:\n\n\n\n1) This message is shown upon Leveling Up, Modify this to how you desire.  \n\n\n\n\n{player} Will display the Discord User in a Mention; {level} Will display the New Level in Numeric Form (1,2,3)  \n\n\n\n\n2) Enabling \nSend in whisper\n, will cause Mee6 to DirectMessage the player directly instead of a public chat.  \n\n\n3) If \n!rank\n or \n!rank @some_user\n is used to often, you can enable this for time (in seconds) you wish for them to have to wait.  \n\n\n4) Here you can set \nBlack Listed\n roles to not gain Experience.  \n\n\n\n\nLet's say that you got a couple of bots or people who spam for levels in your server and you do not want them to gain Experience; Try giving them \"Bots\" or \"Spammer\" role and blacklist that role after.  \n\n\n\n\n5) To save any changes, press \nUpdate\n near the end of the page.  \n\n\nRole Rewards\n\n\nSetup\n\n\nMee6 Role and Required Permissions\n\n\n\n\n1) Locate your Roles and give Mee6 or your varient of \"Bots\" Role the permission \nManage Roles\n  \n\n\n\n\nManage Roles is Required to allow Mee6 to apply the roles from rewards to the user.\nMee6's Bot Role is Required to be higher than the roles it is applying to users. (Per Discord's newer \"Role Hierarchy\" System)\n\n\n\n\nSetup Role Reward\n\n\n\n\n\n\nCreate the \nRole\n how you wish and Modify/Customize it's Names, Colors, Permissions, and Everything Else.\n\n\n\n\nApplying Role Rewards in the Dashboard\n\n\nNow, Open your Dashboard and Navigate to the \nLevels\n Plugin Page.\n\n\n\n\n\nThe Order here is Dependant on the order the Roles are Created!\n\n\n\n\n1) Find the roles that you want to give as rewards.\n2) Choose the level that people need to earn this role.\n3) When your done press the \nUpdate\n button.\n\n\n\n\nIf\n\n\n\n\nyou apply a Role with a \nLarge Number of Discord Users\n, it may take quite a while (Due to Discord Limitations of \n10 Roles/60 Seconds\n) to Update every user with the New Role. (Please Contact Support if all your users do not have the Roles they should after a 24 Hours at most.)\n\n\n\n\nDisclaimer\n\n\n\n\nWhen a role is given as a reward, it can only be removed manually!",
+            "location": "/Commands/#add-or-manage-your-awesome-custom-commands", 
+            "text": "The Custom Commands Plugin allow you to type a simple command and give a large explanation or a link without needing to copy/paste or type a bulk response each time.", 
+            "title": "Add or Manage Your AWESOME Custom Commands!"
+        }, 
+        {
+            "location": "/Commands/#to-add-a-custom-command-follow-these-steps", 
+            "text": "1 ) Write the name you wish the command to have. \nIn the command name, you can only have:  letters, numbers, - or _ \nAlso, you do not need to write  !  at the start it's added automatically.    2 ) Write the return text you wish for the bot to say. \nAt the current time, the bot cannot do special function; Only return messages. \nHowever, this is planned to be added as a feature to advanced commands that will come in the future.     The advanced command plugin is a  not-so-soon-to-be-released  MAGIC plugin!\nIt will let you add some advanced commands with arguments like !your_command @someone @someoneelse\nYou'll also be able to trigger some actions like send_message, send_private_message, kick, add_role etc...\nAND one more thing... You'll be able to share your commands in a  Public Command Hub  so that other server managers can use them.   3 ) Now you press the  Add  button to save your command and add it to your Discord Server. \nTo use the command in chat, simple type  !command_name  and the bot will send the response.", 
+            "title": "To Add a Custom Command Follow These Steps:"
+        }, 
+        {
+            "location": "/Commands/#to-edit-custom-commands", 
+            "text": "If you wish to modify an existing command.  1 ) Edit your return response. (You currently cannot change command name.)  2 ) Press  Edit  Button to save changes to command.    If you wish to remove an existing command.  3 ) Press the  Delete  button to delete (remove) an existing command.", 
+            "title": "To Edit Custom Commands"
+        }, 
+        {
+            "location": "/Levels/", 
+            "text": "Levels\n\n\nLet Your Members Gain \nExperience\n and \nLevels\n by Participating in The Chat !\n\n\nSetup:\n\n\nGo to \nMee6 Dashboard\n and select your server.\n\nSelect the \nLevels\n Plugin.\n\nYou should now see:\n\n\n\n1) This message is shown upon Leveling Up, Modify this to how you desire.  \n\n\n\n\n{player} Will display the Discord User in a Mention; {level} Will display the New Level in Numeric Form (1,2,3)  \n\n\n\n\n2) Enabling \nSend in whisper\n, will cause Mee6 to DirectMessage the player directly instead of a public chat.  \n\n\n3) If \n!rank\n or \n!rank @some_user\n is used to often, you can enable this for time (in seconds) you wish for them to have to wait.  \n\n\n4) Here you can set \nBlack Listed\n roles to not gain Experience.  \n\n\n\n\nLet's say that you got a couple of bots or people who spam for levels in your server and you do not want them to gain Experience; Try giving them \"Bots\" or \"Spammer\" role and blacklist that role after.  \n\n\n\n\n5) To save any changes, press \nUpdate\n near the end of the page.  \n\n\nRole Rewards\n\n\nSetup\n\n\nMee6 Role and Required Permissions\n\n\n\n\n1) Locate your Roles and give Mee6 or your varient of \"Bots\" Role the permission \nManage Roles\n  \n\n\n\n\nManage Roles is Required to allow Mee6 to apply the roles from rewards to the user.\nMee6's Bot Role is Required to be higher than the roles it is applying to users. (Per Discord's newer \"Role Hierarchy\" System)\n\n\n\n\nSetup Role Reward\n\n\n\n\n\n\nCreate the \nRole\n how you wish and Modify/Customize it's Names, Colors, Permissions, and Everything Else.\n\n\n\n\nApplying Role Rewards in the Dashboard\n\n\nNow, Open your Dashboard and Navigate to the \nLevels\n Plugin Page.\n\n\n\n\n\nThe Order here is Dependant on the order the Roles are Created!\n\n\n\n\n1) Find the roles that you want to give as rewards.\n2) Choose the level that people need to earn this role.\n3) When your done press the \nUpdate\n button.\n\n\n\n\nIf\n\n\n\n\nyou apply a Role with a \nLarge Number of Discord Users\n, it may take quite a while (Due to Discord Limitations of \n10 Roles/60 Seconds\n) to Update every user with the New Role. (Please Contact Support if all your users do not have the Roles they should after a 24 Hours at most.)\n\n\n\n\nDisclaimer\n\n\n\n\nWhen a role is given as a reward, it can only be removed manually!", 
             "title": "Levels plugin"
-        },
+        }, 
         {
-            "location": "/Levels/#levels",
-            "text": "",
+            "location": "/Levels/#levels", 
+            "text": "", 
             "title": "Levels"
-        },
+        }, 
         {
-            "location": "/Levels/#let-your-members-gain-experience-and-levels-by-participating-in-the-chat",
-            "text": "Setup:  Go to  Mee6 Dashboard  and select your server. \nSelect the  Levels  Plugin. \nYou should now see:  1) This message is shown upon Leveling Up, Modify this to how you desire.     {player} Will display the Discord User in a Mention; {level} Will display the New Level in Numeric Form (1,2,3)     2) Enabling  Send in whisper , will cause Mee6 to DirectMessage the player directly instead of a public chat.    3) If  !rank  or  !rank @some_user  is used to often, you can enable this for time (in seconds) you wish for them to have to wait.    4) Here you can set  Black Listed  roles to not gain Experience.     Let's say that you got a couple of bots or people who spam for levels in your server and you do not want them to gain Experience; Try giving them \"Bots\" or \"Spammer\" role and blacklist that role after.     5) To save any changes, press  Update  near the end of the page.",
+            "location": "/Levels/#let-your-members-gain-experience-and-levels-by-participating-in-the-chat", 
+            "text": "", 
             "title": "Let Your Members Gain Experience and Levels by Participating in The Chat !"
-        },
+        }, 
         {
-            "location": "/Levels/#role-rewards",
-            "text": "Setup  Mee6 Role and Required Permissions   1) Locate your Roles and give Mee6 or your varient of \"Bots\" Role the permission  Manage Roles      Manage Roles is Required to allow Mee6 to apply the roles from rewards to the user.\nMee6's Bot Role is Required to be higher than the roles it is applying to users. (Per Discord's newer \"Role Hierarchy\" System)   Setup Role Reward    Create the  Role  how you wish and Modify/Customize it's Names, Colors, Permissions, and Everything Else.   Applying Role Rewards in the Dashboard  Now, Open your Dashboard and Navigate to the  Levels  Plugin Page.   The Order here is Dependant on the order the Roles are Created!   1) Find the roles that you want to give as rewards.\n2) Choose the level that people need to earn this role.\n3) When your done press the  Update  button.   If   you apply a Role with a  Large Number of Discord Users , it may take quite a while (Due to Discord Limitations of  10 Roles/60 Seconds ) to Update every user with the New Role. (Please Contact Support if all your users do not have the Roles they should after a 24 Hours at most.)   Disclaimer   When a role is given as a reward, it can only be removed manually!",
+            "location": "/Levels/#setup", 
+            "text": "Go to  Mee6 Dashboard  and select your server. \nSelect the  Levels  Plugin. \nYou should now see:  1) This message is shown upon Leveling Up, Modify this to how you desire.     {player} Will display the Discord User in a Mention; {level} Will display the New Level in Numeric Form (1,2,3)     2) Enabling  Send in whisper , will cause Mee6 to DirectMessage the player directly instead of a public chat.    3) If  !rank  or  !rank @some_user  is used to often, you can enable this for time (in seconds) you wish for them to have to wait.    4) Here you can set  Black Listed  roles to not gain Experience.     Let's say that you got a couple of bots or people who spam for levels in your server and you do not want them to gain Experience; Try giving them \"Bots\" or \"Spammer\" role and blacklist that role after.     5) To save any changes, press  Update  near the end of the page.", 
+            "title": "Setup:"
+        }, 
+        {
+            "location": "/Levels/#role-rewards", 
+            "text": "", 
             "title": "Role Rewards"
-        },
+        }, 
         {
-            "location": "/levelxp/",
-            "text": "Read\n\n\nThis is just a page with a graph and a table with the levels/xp comparison\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nlevel\n\n\nxp needed to level up\n\n\nneeded to get this level(total xp)\n\n\n\n\n\n\n\n\n\n\n0\n\n\n100\n\n\n0\n\n\n\n\n\n\n1\n\n\n155\n\n\n100\n\n\n\n\n\n\n2\n\n\n220\n\n\n255\n\n\n\n\n\n\n3\n\n\n295\n\n\n475\n\n\n\n\n\n\n4\n\n\n380\n\n\n770\n\n\n\n\n\n\n5\n\n\n475\n\n\n1150\n\n\n\n\n\n\n6\n\n\n580\n\n\n1625\n\n\n\n\n\n\n7\n\n\n695\n\n\n2205\n\n\n\n\n\n\n8\n\n\n820\n\n\n2900\n\n\n\n\n\n\n9\n\n\n955\n\n\n3720\n\n\n\n\n\n\n10\n\n\n1100\n\n\n4675\n\n\n\n\n\n\n11\n\n\n1255\n\n\n5775\n\n\n\n\n\n\n12\n\n\n1420\n\n\n7030\n\n\n\n\n\n\n13\n\n\n1595\n\n\n8450\n\n\n\n\n\n\n14\n\n\n1780\n\n\n10045\n\n\n\n\n\n\n15\n\n\n1975\n\n\n11825\n\n\n\n\n\n\n16\n\n\n2180\n\n\n13800\n\n\n\n\n\n\n17\n\n\n2395\n\n\n15980\n\n\n\n\n\n\n18\n\n\n2620\n\n\n18375\n\n\n\n\n\n\n19\n\n\n2855\n\n\n20995\n\n\n\n\n\n\n20\n\n\n3100\n\n\n23850\n\n\n\n\n\n\nlevel\n\n\nxp needed to level up\n\n\nneeded to get this level(total xp)\n\n\n\n\n\n\n21\n\n\n3355\n\n\n26950\n\n\n\n\n\n\n22\n\n\n3620\n\n\n30305\n\n\n\n\n\n\n23\n\n\n3895\n\n\n33925\n\n\n\n\n\n\n24\n\n\n4180\n\n\n37820\n\n\n\n\n\n\n25\n\n\n4475\n\n\n42000\n\n\n\n\n\n\n26\n\n\n4780\n\n\n46475\n\n\n\n\n\n\n27\n\n\n5095\n\n\n51255\n\n\n\n\n\n\n28\n\n\n5420\n\n\n56350\n\n\n\n\n\n\n29\n\n\n5755\n\n\n61770\n\n\n\n\n\n\n30\n\n\n6100\n\n\n67525\n\n\n\n\n\n\n31\n\n\n6455\n\n\n73625\n\n\n\n\n\n\n32\n\n\n6820\n\n\n80080\n\n\n\n\n\n\n33\n\n\n7195\n\n\n86900\n\n\n\n\n\n\n34\n\n\n7580\n\n\n94095\n\n\n\n\n\n\n35\n\n\n7975\n\n\n101675\n\n\n\n\n\n\n36\n\n\n8380\n\n\n109650\n\n\n\n\n\n\n37\n\n\n8795\n\n\n118030\n\n\n\n\n\n\n38\n\n\n9220\n\n\n126825\n\n\n\n\n\n\n39\n\n\n9655\n\n\n136045\n\n\n\n\n\n\n40\n\n\n10100\n\n\n145700\n\n\n\n\n\n\nlevel\n\n\nxp needed to level up\n\n\nneeded to get this level(total xp)\n\n\n\n\n\n\n41\n\n\n10555\n\n\n155800\n\n\n\n\n\n\n42\n\n\n11020\n\n\n166355\n\n\n\n\n\n\n43\n\n\n11495\n\n\n177375\n\n\n\n\n\n\n44\n\n\n11980\n\n\n188870\n\n\n\n\n\n\n45\n\n\n12475\n\n\n200850\n\n\n\n\n\n\n46\n\n\n12980\n\n\n213325\n\n\n\n\n\n\n47\n\n\n13495\n\n\n226305\n\n\n\n\n\n\n48\n\n\n14020\n\n\n239800\n\n\n\n\n\n\n49\n\n\n14555\n\n\n253820\n\n\n\n\n\n\n50\n\n\n15100\n\n\n268375\n\n\n\n\n\n\n51\n\n\n15655\n\n\n283475\n\n\n\n\n\n\n52\n\n\n16220\n\n\n299130\n\n\n\n\n\n\n53\n\n\n16795\n\n\n315350\n\n\n\n\n\n\n54\n\n\n17380\n\n\n332145\n\n\n\n\n\n\n55\n\n\n17975\n\n\n349525\n\n\n\n\n\n\n56\n\n\n18580\n\n\n367500\n\n\n\n\n\n\n57\n\n\n19195\n\n\n386080\n\n\n\n\n\n\n58\n\n\n19820\n\n\n405275\n\n\n\n\n\n\n59\n\n\n20455\n\n\n425095\n\n\n\n\n\n\n60\n\n\n21100\n\n\n445550\n\n\n\n\n\n\nlevel\n\n\nxp needed to level up\n\n\nneeded to get this level(total xp)\n\n\n\n\n\n\n61\n\n\n21755\n\n\n466650\n\n\n\n\n\n\n62\n\n\n22420\n\n\n488405\n\n\n\n\n\n\n63\n\n\n23095\n\n\n510825\n\n\n\n\n\n\n64\n\n\n23780\n\n\n533920\n\n\n\n\n\n\n65\n\n\n24475\n\n\n557700\n\n\n\n\n\n\n66\n\n\n25180\n\n\n582175\n\n\n\n\n\n\n67\n\n\n25895\n\n\n607355\n\n\n\n\n\n\n68\n\n\n26620\n\n\n633250\n\n\n\n\n\n\n69\n\n\n27355\n\n\n659870\n\n\n\n\n\n\n70\n\n\n28100\n\n\n687225\n\n\n\n\n\n\n71\n\n\n28855\n\n\n715325\n\n\n\n\n\n\n72\n\n\n29620\n\n\n744180\n\n\n\n\n\n\n73\n\n\n30395\n\n\n773800\n\n\n\n\n\n\n74\n\n\n31180\n\n\n804195\n\n\n\n\n\n\n75\n\n\n31975\n\n\n835375\n\n\n\n\n\n\n76\n\n\n32780\n\n\n867350\n\n\n\n\n\n\n77\n\n\n33595\n\n\n900130\n\n\n\n\n\n\n78\n\n\n34420\n\n\n933725\n\n\n\n\n\n\n79\n\n\n35255\n\n\n968145\n\n\n\n\n\n\n80\n\n\n36100\n\n\n1003400\n\n\n\n\n\n\nlevel\n\n\nxp needed to level up\n\n\nneeded to get this level(total xp)\n\n\n\n\n\n\n81\n\n\n36955\n\n\n1039500\n\n\n\n\n\n\n82\n\n\n37820\n\n\n1076455\n\n\n\n\n\n\n83\n\n\n38695\n\n\n1114275\n\n\n\n\n\n\n84\n\n\n39580\n\n\n1152970\n\n\n\n\n\n\n85\n\n\n40475\n\n\n1192550\n\n\n\n\n\n\n86\n\n\n41380\n\n\n1233025\n\n\n\n\n\n\n87\n\n\n42295\n\n\n1274405\n\n\n\n\n\n\n88\n\n\n43220\n\n\n1316700\n\n\n\n\n\n\n89\n\n\n44155\n\n\n1359920\n\n\n\n\n\n\n90\n\n\n45100\n\n\n1404075\n\n\n\n\n\n\n91\n\n\n46055\n\n\n1449175\n\n\n\n\n\n\n92\n\n\n47020\n\n\n1495230\n\n\n\n\n\n\n93\n\n\n47995\n\n\n1542250\n\n\n\n\n\n\n94\n\n\n48980\n\n\n1590245\n\n\n\n\n\n\n95\n\n\n49975\n\n\n1639225\n\n\n\n\n\n\n96\n\n\n50980\n\n\n1689200\n\n\n\n\n\n\n97\n\n\n51995\n\n\n1740180\n\n\n\n\n\n\n98\n\n\n53020\n\n\n1792175\n\n\n\n\n\n\n99\n\n\n54055\n\n\n1845195\n\n\n\n\n\n\n100\n\n\n55100\n\n\n1899250\n\n\n\n\n\n\nlevel\n\n\nxp needed to level up\n\n\nneeded to get this level(total xp)\n\n\n\n\n\n\n\n\n\n\nFormula\n\n\na formula to calculate how much xp you need for the next level is \n5 * (lvl ^ 2) + 50 * lvl + 100\n\nwith your current level as lvl",
+            "location": "/Levels/#setup_1", 
+            "text": "", 
+            "title": "Setup"
+        }, 
+        {
+            "location": "/Levels/#mee6-role-and-required-permissions", 
+            "text": "1) Locate your Roles and give Mee6 or your varient of \"Bots\" Role the permission  Manage Roles      Manage Roles is Required to allow Mee6 to apply the roles from rewards to the user.\nMee6's Bot Role is Required to be higher than the roles it is applying to users. (Per Discord's newer \"Role Hierarchy\" System)", 
+            "title": "Mee6 Role and Required Permissions"
+        }, 
+        {
+            "location": "/Levels/#setup-role-reward", 
+            "text": "Create the  Role  how you wish and Modify/Customize it's Names, Colors, Permissions, and Everything Else.", 
+            "title": "Setup Role Reward"
+        }, 
+        {
+            "location": "/Levels/#applying-role-rewards-in-the-dashboard", 
+            "text": "Now, Open your Dashboard and Navigate to the  Levels  Plugin Page.   The Order here is Dependant on the order the Roles are Created!   1) Find the roles that you want to give as rewards.\n2) Choose the level that people need to earn this role.\n3) When your done press the  Update  button.   If   you apply a Role with a  Large Number of Discord Users , it may take quite a while (Due to Discord Limitations of  10 Roles/60 Seconds ) to Update every user with the New Role. (Please Contact Support if all your users do not have the Roles they should after a 24 Hours at most.)   Disclaimer   When a role is given as a reward, it can only be removed manually!", 
+            "title": "Applying Role Rewards in the Dashboard"
+        }, 
+        {
+            "location": "/levelxp/", 
+            "text": "Read\n\n\nThis is just a page with a graph and a table with the levels/xp comparison\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nlevel\n\n\nxp needed to level up\n\n\nneeded to get this level(total xp)\n\n\n\n\n\n\n\n\n\n\n0\n\n\n100\n\n\n0\n\n\n\n\n\n\n1\n\n\n155\n\n\n100\n\n\n\n\n\n\n2\n\n\n220\n\n\n255\n\n\n\n\n\n\n3\n\n\n295\n\n\n475\n\n\n\n\n\n\n4\n\n\n380\n\n\n770\n\n\n\n\n\n\n5\n\n\n475\n\n\n1150\n\n\n\n\n\n\n6\n\n\n580\n\n\n1625\n\n\n\n\n\n\n7\n\n\n695\n\n\n2205\n\n\n\n\n\n\n8\n\n\n820\n\n\n2900\n\n\n\n\n\n\n9\n\n\n955\n\n\n3720\n\n\n\n\n\n\n10\n\n\n1100\n\n\n4675\n\n\n\n\n\n\n11\n\n\n1255\n\n\n5775\n\n\n\n\n\n\n12\n\n\n1420\n\n\n7030\n\n\n\n\n\n\n13\n\n\n1595\n\n\n8450\n\n\n\n\n\n\n14\n\n\n1780\n\n\n10045\n\n\n\n\n\n\n15\n\n\n1975\n\n\n11825\n\n\n\n\n\n\n16\n\n\n2180\n\n\n13800\n\n\n\n\n\n\n17\n\n\n2395\n\n\n15980\n\n\n\n\n\n\n18\n\n\n2620\n\n\n18375\n\n\n\n\n\n\n19\n\n\n2855\n\n\n20995\n\n\n\n\n\n\n20\n\n\n3100\n\n\n23850\n\n\n\n\n\n\nlevel\n\n\nxp needed to level up\n\n\nneeded to get this level(total xp)\n\n\n\n\n\n\n21\n\n\n3355\n\n\n26950\n\n\n\n\n\n\n22\n\n\n3620\n\n\n30305\n\n\n\n\n\n\n23\n\n\n3895\n\n\n33925\n\n\n\n\n\n\n24\n\n\n4180\n\n\n37820\n\n\n\n\n\n\n25\n\n\n4475\n\n\n42000\n\n\n\n\n\n\n26\n\n\n4780\n\n\n46475\n\n\n\n\n\n\n27\n\n\n5095\n\n\n51255\n\n\n\n\n\n\n28\n\n\n5420\n\n\n56350\n\n\n\n\n\n\n29\n\n\n5755\n\n\n61770\n\n\n\n\n\n\n30\n\n\n6100\n\n\n67525\n\n\n\n\n\n\n31\n\n\n6455\n\n\n73625\n\n\n\n\n\n\n32\n\n\n6820\n\n\n80080\n\n\n\n\n\n\n33\n\n\n7195\n\n\n86900\n\n\n\n\n\n\n34\n\n\n7580\n\n\n94095\n\n\n\n\n\n\n35\n\n\n7975\n\n\n101675\n\n\n\n\n\n\n36\n\n\n8380\n\n\n109650\n\n\n\n\n\n\n37\n\n\n8795\n\n\n118030\n\n\n\n\n\n\n38\n\n\n9220\n\n\n126825\n\n\n\n\n\n\n39\n\n\n9655\n\n\n136045\n\n\n\n\n\n\n40\n\n\n10100\n\n\n145700\n\n\n\n\n\n\nlevel\n\n\nxp needed to level up\n\n\nneeded to get this level(total xp)\n\n\n\n\n\n\n41\n\n\n10555\n\n\n155800\n\n\n\n\n\n\n42\n\n\n11020\n\n\n166355\n\n\n\n\n\n\n43\n\n\n11495\n\n\n177375\n\n\n\n\n\n\n44\n\n\n11980\n\n\n188870\n\n\n\n\n\n\n45\n\n\n12475\n\n\n200850\n\n\n\n\n\n\n46\n\n\n12980\n\n\n213325\n\n\n\n\n\n\n47\n\n\n13495\n\n\n226305\n\n\n\n\n\n\n48\n\n\n14020\n\n\n239800\n\n\n\n\n\n\n49\n\n\n14555\n\n\n253820\n\n\n\n\n\n\n50\n\n\n15100\n\n\n268375\n\n\n\n\n\n\n51\n\n\n15655\n\n\n283475\n\n\n\n\n\n\n52\n\n\n16220\n\n\n299130\n\n\n\n\n\n\n53\n\n\n16795\n\n\n315350\n\n\n\n\n\n\n54\n\n\n17380\n\n\n332145\n\n\n\n\n\n\n55\n\n\n17975\n\n\n349525\n\n\n\n\n\n\n56\n\n\n18580\n\n\n367500\n\n\n\n\n\n\n57\n\n\n19195\n\n\n386080\n\n\n\n\n\n\n58\n\n\n19820\n\n\n405275\n\n\n\n\n\n\n59\n\n\n20455\n\n\n425095\n\n\n\n\n\n\n60\n\n\n21100\n\n\n445550\n\n\n\n\n\n\nlevel\n\n\nxp needed to level up\n\n\nneeded to get this level(total xp)\n\n\n\n\n\n\n61\n\n\n21755\n\n\n466650\n\n\n\n\n\n\n62\n\n\n22420\n\n\n488405\n\n\n\n\n\n\n63\n\n\n23095\n\n\n510825\n\n\n\n\n\n\n64\n\n\n23780\n\n\n533920\n\n\n\n\n\n\n65\n\n\n24475\n\n\n557700\n\n\n\n\n\n\n66\n\n\n25180\n\n\n582175\n\n\n\n\n\n\n67\n\n\n25895\n\n\n607355\n\n\n\n\n\n\n68\n\n\n26620\n\n\n633250\n\n\n\n\n\n\n69\n\n\n27355\n\n\n659870\n\n\n\n\n\n\n70\n\n\n28100\n\n\n687225\n\n\n\n\n\n\n71\n\n\n28855\n\n\n715325\n\n\n\n\n\n\n72\n\n\n29620\n\n\n744180\n\n\n\n\n\n\n73\n\n\n30395\n\n\n773800\n\n\n\n\n\n\n74\n\n\n31180\n\n\n804195\n\n\n\n\n\n\n75\n\n\n31975\n\n\n835375\n\n\n\n\n\n\n76\n\n\n32780\n\n\n867350\n\n\n\n\n\n\n77\n\n\n33595\n\n\n900130\n\n\n\n\n\n\n78\n\n\n34420\n\n\n933725\n\n\n\n\n\n\n79\n\n\n35255\n\n\n968145\n\n\n\n\n\n\n80\n\n\n36100\n\n\n1003400\n\n\n\n\n\n\nlevel\n\n\nxp needed to level up\n\n\nneeded to get this level(total xp)\n\n\n\n\n\n\n81\n\n\n36955\n\n\n1039500\n\n\n\n\n\n\n82\n\n\n37820\n\n\n1076455\n\n\n\n\n\n\n83\n\n\n38695\n\n\n1114275\n\n\n\n\n\n\n84\n\n\n39580\n\n\n1152970\n\n\n\n\n\n\n85\n\n\n40475\n\n\n1192550\n\n\n\n\n\n\n86\n\n\n41380\n\n\n1233025\n\n\n\n\n\n\n87\n\n\n42295\n\n\n1274405\n\n\n\n\n\n\n88\n\n\n43220\n\n\n1316700\n\n\n\n\n\n\n89\n\n\n44155\n\n\n1359920\n\n\n\n\n\n\n90\n\n\n45100\n\n\n1404075\n\n\n\n\n\n\n91\n\n\n46055\n\n\n1449175\n\n\n\n\n\n\n92\n\n\n47020\n\n\n1495230\n\n\n\n\n\n\n93\n\n\n47995\n\n\n1542250\n\n\n\n\n\n\n94\n\n\n48980\n\n\n1590245\n\n\n\n\n\n\n95\n\n\n49975\n\n\n1639225\n\n\n\n\n\n\n96\n\n\n50980\n\n\n1689200\n\n\n\n\n\n\n97\n\n\n51995\n\n\n1740180\n\n\n\n\n\n\n98\n\n\n53020\n\n\n1792175\n\n\n\n\n\n\n99\n\n\n54055\n\n\n1845195\n\n\n\n\n\n\n100\n\n\n55100\n\n\n1899250\n\n\n\n\n\n\nlevel\n\n\nxp needed to level up\n\n\nneeded to get this level(total xp)\n\n\n\n\n\n\n\n\n\n\nFormula\n\n\na formula to calculate how much xp you need for the next level is \n5 * (lvl ^ 2) + 50 * lvl + 100\n\nwith your current level as lvl", 
             "title": "Experience Per Level"
-        },
+        }, 
         {
-            "location": "/Moderator/",
-            "text": "Warning\n\n\nthis page need grammer correction and functionality check,\nnot everything on here is right\n\n\n\n\nModerator plugin\n\n\n\n\nCool moderator commands !slowmode/clear/mute\n\n\n\n\nmee6 role and needed permissions\n\n\n\n\n(for role setting in discord: menu symbol next to server name=>server settings=>roles)\n\n\nto let this work you need to make sure that Mee6 has \nall permissions\n in one of his ranks.\nWe could give the bot rank here the all permissions and remove the Mee6 rank, it would still work the same.\n\n\nClear command\n\n\n\n\nTo use clear command enable it by clicking on check box and then pressing \nUpdate\n button at bottom of page.\n\n\nThis command will clear chat messages.\n\n\nTo use it type in chat \n!clear 1-1000\n or to clear person messages not all use \n!clear @nameofperson\n\n\nSlowmode command\n\n\n\n\nTo use Slowmode command enable it by clicking on check box and then pressing \nUpdate\n button at bottom of page.\n\n\nThis command will slow chat.\nExample i will turn on slowmode for 10 seconds and all people can only type 1 message in 10 seconds. (Admins can spam)(Admins are who can access dashboard)\n\n\nTo use it type in chat \n!slowmode (seconds)\n or to turn off Slowmode use \n!slowoff\n\n\nMute command\n\n\n\n\nTo use Mute command enable it by clicking on check box and then pressing \nUpdate\n button at bottom of page.\n\n\nThis command will mute person.\nExample i will turn on mute on @testaccount and now test account can't type in channel i activated command, now i will unmute @testaccount and he can type again.\n\n\nTo use it type in chat \n!mute @username\n or to turn off Mute use \n!unmute @username\n\n\nBanned words\n\n\n\n\nTo use banned words system enable it by typing words to be banned and then pressing \nUpdate\n button at bottom of page.\n\n\nThis system will delete banned words from chat.\nExample i will add ass word to banned words list then try typing that word with test account, bot deletes bad word message and in chat types message \nyour name, LANGUAGE!!! \ud83d\ude21\n\n\nModerator roles\n\n\n\n\nTo use Moderator roles enable it by typing roles names and then pressing \nUpdate\n button at bottom of page.\n\n\nThis will allow to use Moderator commands for other people.\nExample i will add role \nAdmin\nand \nMod\n then people who have role \nAdmin\n or \nMod\n can use Moderators commands",
+            "location": "/Moderator/", 
+            "text": "Warning\n\n\nthis page need grammer correction and functionality check,\nnot everything on here is right\n\n\n\n\nModerator plugin\n\n\n\n\nCool moderator commands !slowmode/clear/mute\n\n\n\n\nmee6 role and needed permissions\n\n\n\n\n(for role setting in discord: menu symbol next to server name=\nserver settings=\nroles)\n\n\nto let this work you need to make sure that Mee6 has \nall permissions\n in one of his ranks.\nWe could give the bot rank here the all permissions and remove the Mee6 rank, it would still work the same.\n\n\nClear command\n\n\n\n\nTo use clear command enable it by clicking on check box and then pressing \nUpdate\n button at bottom of page.\n\n\nThis command will clear chat messages.\n\n\nTo use it type in chat \n!clear 1-1000\n or to clear person messages not all use \n!clear @nameofperson\n\n\nSlowmode command\n\n\n\n\nTo use Slowmode command enable it by clicking on check box and then pressing \nUpdate\n button at bottom of page.\n\n\nThis command will slow chat.\nExample i will turn on slowmode for 10 seconds and all people can only type 1 message in 10 seconds. (Admins can spam)(Admins are who can access dashboard)\n\n\nTo use it type in chat \n!slowmode (seconds)\n or to turn off Slowmode use \n!slowoff\n\n\nMute command\n\n\n\n\nTo use Mute command enable it by clicking on check box and then pressing \nUpdate\n button at bottom of page.\n\n\nThis command will mute person.\nExample i will turn on mute on @testaccount and now test account can't type in channel i activated command, now i will unmute @testaccount and he can type again.\n\n\nTo use it type in chat \n!mute @username\n or to turn off Mute use \n!unmute @username\n\n\nBanned words\n\n\n\n\nTo use banned words system enable it by typing words to be banned and then pressing \nUpdate\n button at bottom of page.\n\n\nThis system will delete banned words from chat.\nExample i will add ass word to banned words list then try typing that word with test account, bot deletes bad word message and in chat types message \nyour name, LANGUAGE!!! \ud83d\ude21\n\n\nModerator roles\n\n\n\n\nTo use Moderator roles enable it by typing roles names and then pressing \nUpdate\n button at bottom of page.\n\n\nThis will allow to use Moderator commands for other people.\nExample i will add role \nAdmin\nand \nMod\n then people who have role \nAdmin\n or \nMod\n can use Moderators commands", 
             "title": "Moderator plugin"
-        },
+        }, 
         {
-            "location": "/Moderator/#moderator-plugin",
-            "text": "Cool moderator commands !slowmode/clear/mute",
+            "location": "/Moderator/#moderator-plugin", 
+            "text": "Cool moderator commands !slowmode/clear/mute", 
             "title": "Moderator plugin"
-        },
+        }, 
         {
-            "location": "/Moderator/#mee6-role-and-needed-permissions",
-            "text": "(for role setting in discord: menu symbol next to server name=>server settings=>roles)  to let this work you need to make sure that Mee6 has  all permissions  in one of his ranks.\nWe could give the bot rank here the all permissions and remove the Mee6 rank, it would still work the same.",
+            "location": "/Moderator/#mee6-role-and-needed-permissions", 
+            "text": "(for role setting in discord: menu symbol next to server name= server settings= roles)  to let this work you need to make sure that Mee6 has  all permissions  in one of his ranks.\nWe could give the bot rank here the all permissions and remove the Mee6 rank, it would still work the same.", 
             "title": "mee6 role and needed permissions"
-        },
+        }, 
         {
-            "location": "/Moderator/#clear-command",
-            "text": "To use clear command enable it by clicking on check box and then pressing  Update  button at bottom of page.  This command will clear chat messages.  To use it type in chat  !clear 1-1000  or to clear person messages not all use  !clear @nameofperson",
+            "location": "/Moderator/#clear-command", 
+            "text": "To use clear command enable it by clicking on check box and then pressing  Update  button at bottom of page.  This command will clear chat messages.  To use it type in chat  !clear 1-1000  or to clear person messages not all use  !clear @nameofperson", 
             "title": "Clear command"
-        },
+        }, 
         {
-            "location": "/Moderator/#slowmode-command",
-            "text": "To use Slowmode command enable it by clicking on check box and then pressing  Update  button at bottom of page.  This command will slow chat.\nExample i will turn on slowmode for 10 seconds and all people can only type 1 message in 10 seconds. (Admins can spam)(Admins are who can access dashboard)  To use it type in chat  !slowmode (seconds)  or to turn off Slowmode use  !slowoff",
+            "location": "/Moderator/#slowmode-command", 
+            "text": "To use Slowmode command enable it by clicking on check box and then pressing  Update  button at bottom of page.  This command will slow chat.\nExample i will turn on slowmode for 10 seconds and all people can only type 1 message in 10 seconds. (Admins can spam)(Admins are who can access dashboard)  To use it type in chat  !slowmode (seconds)  or to turn off Slowmode use  !slowoff", 
             "title": "Slowmode command"
-        },
+        }, 
         {
-            "location": "/Moderator/#mute-command",
-            "text": "To use Mute command enable it by clicking on check box and then pressing  Update  button at bottom of page.  This command will mute person.\nExample i will turn on mute on @testaccount and now test account can't type in channel i activated command, now i will unmute @testaccount and he can type again.  To use it type in chat  !mute @username  or to turn off Mute use  !unmute @username",
+            "location": "/Moderator/#mute-command", 
+            "text": "To use Mute command enable it by clicking on check box and then pressing  Update  button at bottom of page.  This command will mute person.\nExample i will turn on mute on @testaccount and now test account can't type in channel i activated command, now i will unmute @testaccount and he can type again.  To use it type in chat  !mute @username  or to turn off Mute use  !unmute @username", 
             "title": "Mute command"
-        },
+        }, 
         {
-            "location": "/Moderator/#banned-words",
-            "text": "To use banned words system enable it by typing words to be banned and then pressing  Update  button at bottom of page.  This system will delete banned words from chat.\nExample i will add ass word to banned words list then try typing that word with test account, bot deletes bad word message and in chat types message  your name, LANGUAGE!!! \ud83d\ude21",
+            "location": "/Moderator/#banned-words", 
+            "text": "To use banned words system enable it by typing words to be banned and then pressing  Update  button at bottom of page.  This system will delete banned words from chat.\nExample i will add ass word to banned words list then try typing that word with test account, bot deletes bad word message and in chat types message  your name, LANGUAGE!!! \ud83d\ude21", 
             "title": "Banned words"
-        },
+        }, 
         {
-            "location": "/Moderator/#moderator-roles",
-            "text": "To use Moderator roles enable it by typing roles names and then pressing  Update  button at bottom of page.  This will allow to use Moderator commands for other people.\nExample i will add role  Admin and  Mod  then people who have role  Admin  or  Mod  can use Moderators commands",
+            "location": "/Moderator/#moderator-roles", 
+            "text": "To use Moderator roles enable it by typing roles names and then pressing  Update  button at bottom of page.  This will allow to use Moderator commands for other people.\nExample i will add role  Admin and  Mod  then people who have role  Admin  or  Mod  can use Moderators commands", 
             "title": "Moderator roles"
+        }, 
+        {
+            "location": "/Music/", 
+            "text": "\ufeff#Music Plugin\n\n\nAbout\n\n\nMee6\n will stream you high quality music that you can listen with your friends!\n\n\nCurrent Plans\n\n\nMee6\n currently supports 2 plans:\n\n\n1. Monthly - 300 [points](https://mee6.xyz/donate)\n2. Lifetime - 2500 [points](https://mee6.xyz/donate)\n\n\n\nNote\n: When you buy your plan you can only use it on one server, however you can buy more and use them on other servers. \n\n\nPoints\n\n\nWith \npoints\n you can activate your music feature or other paid feature. Point system is simple:\n\n\n100 [points](https://mee6.xyz/donate) = 1\u20ac\nMonthly Music = 3\u20ac\nLifetime Music = 25\u20ac\n\n\n\nPurchasing points\n\n\nPurchase can be only made through a \nPayPal\n (Credit Card). You can choose how much \npoints\n you want from 100 \npoints\n to 6000 \npoints\n!\n\n\nActivating Music Plugin\n\n\nAfter \npurchasing\n the \npoints\n you can activate your plugin!\nHere is how you do it:\n\n\n\n\nGo to \nMee6 Dashboard\n\n\nActivate Music Plugin\n\n\n\n\n\nConfigure\n\n\n\nAnd you are done!\n\n\n\n\nUsing in Discord\n\n\nTo make Mee6 join your channel type in !join\n\n\n!add (youtube search query)\nYou can also use video links, Mee6 currently supports theese sites.\n\nBBC  |Patreon  |ABC7News |SoundCloud\nIMDB |ABC News |Facebook |YouTube\nNHL  |Dropbox  |SchoolTV |PBS and Member Stations\nTwitch(livestreams and recorded streams)\n\nTo add link use following:\n!add (link)\n\n\n\nTo see playlist \n queue type in !playlist\n\u2800\u2800\u2800\u2800Mee6 will give you last 5 songs in queue and link to full queue.\nTo skip music type in: !skip\n\u2800\u2800\u2800\u2800Mee6 will skip current song.\nTo stop music type in: !stop\n\u2800\u2800\u2800\u2800Mee6 will stop playing music.\nTo give Mee6 break from playing type in: !leave\n\u2800\u2800\u2800\u2800Mee6 will leave voice channel.\n\n\nDeactivating Music Plugin\n\n\nSadly you won't get your infinite potion back as mentioned before. However you will be able to activate it again on the server.\n\n\nTo deactivate your music plugin go to music plugin configuration and click the yellow disable button.\n\n\n\n\n\nMusic configuration will save.\n\n\n\n\n\n\nCreated by Doc", 
+            "title": "Music plugin"
+        }, 
+        {
+            "location": "/Music/#about", 
+            "text": "Mee6  will stream you high quality music that you can listen with your friends!", 
+            "title": "About"
+        }, 
+        {
+            "location": "/Music/#current-plans", 
+            "text": "Mee6  currently supports 2 plans:  1. Monthly - 300 [points](https://mee6.xyz/donate)\n2. Lifetime - 2500 [points](https://mee6.xyz/donate)  Note : When you buy your plan you can only use it on one server, however you can buy more and use them on other servers.", 
+            "title": "Current Plans"
+        }, 
+        {
+            "location": "/Music/#points", 
+            "text": "With  points  you can activate your music feature or other paid feature. Point system is simple:  100 [points](https://mee6.xyz/donate) = 1\u20ac\nMonthly Music = 3\u20ac\nLifetime Music = 25\u20ac", 
+            "title": "Points"
+        }, 
+        {
+            "location": "/Music/#purchasing-points", 
+            "text": "Purchase can be only made through a  PayPal  (Credit Card). You can choose how much  points  you want from 100  points  to 6000  points !", 
+            "title": "Purchasing points"
+        }, 
+        {
+            "location": "/Music/#activating-music-plugin", 
+            "text": "After  purchasing  the  points  you can activate your plugin!\nHere is how you do it:   Go to  Mee6 Dashboard  Activate Music Plugin   Configure  And you are done!", 
+            "title": "Activating Music Plugin"
+        }, 
+        {
+            "location": "/Music/#using-in-discord", 
+            "text": "To make Mee6 join your channel type in !join  !add (youtube search query)\nYou can also use video links, Mee6 currently supports theese sites.\n\nBBC  |Patreon  |ABC7News |SoundCloud\nIMDB |ABC News |Facebook |YouTube\nNHL  |Dropbox  |SchoolTV |PBS and Member Stations\nTwitch(livestreams and recorded streams)\n\nTo add link use following:\n!add (link)  To see playlist   queue type in !playlist\n\u2800\u2800\u2800\u2800Mee6 will give you last 5 songs in queue and link to full queue.\nTo skip music type in: !skip\n\u2800\u2800\u2800\u2800Mee6 will skip current song.\nTo stop music type in: !stop\n\u2800\u2800\u2800\u2800Mee6 will stop playing music.\nTo give Mee6 break from playing type in: !leave\n\u2800\u2800\u2800\u2800Mee6 will leave voice channel.", 
+            "title": "Using in Discord"
+        }, 
+        {
+            "location": "/Music/#deactivating-music-plugin", 
+            "text": "Sadly you won't get your infinite potion back as mentioned before. However you will be able to activate it again on the server.  To deactivate your music plugin go to music plugin configuration and click the yellow disable button.   Music configuration will save.    Created by Doc", 
+            "title": "Deactivating Music Plugin"
         }
     ]
 }
