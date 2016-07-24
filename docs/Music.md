@@ -23,10 +23,10 @@ Here is how you do it:
 
  1. Go to [Mee6 Dashboard](https://mee6.xyz/servers)
  2. Activate Music Plugin
-![Mee6 Dashboard](https://github.com/TheOfficialDoc/Mee6-documentation/blob/master/docs/pics/RuZ3JWD%5B1%5D.png?raw=true)
-![Mee6](https://github.com/TheOfficialDoc/Mee6-documentation/blob/master/docs/pics/IY8R1ra%5B1%5D.png?raw=true)
+![Mee6 Dashboard](docs/pics/RuZ3JWD%5B1%5D.png?raw=true)
+![Mee6](docs/pics/IY8R1ra%5B1%5D.png?raw=true)
  3. Configure
-![Mee6](https://github.com/TheOfficialDoc/Mee6-documentation/blob/master/docs/pics/GnK7rcY%5B1%5D.png?raw=true)
+![Mee6](docs/pics/GnK7rcY%5B1%5D.png?raw=true)
  4. And you are done!
 
 ##Using in Discord
@@ -55,7 +55,7 @@ To make Mee6 join your channel type in !join
 Sadly you won't get your infinite potion back as mentioned before. However you will be able to activate it again on the server.
 
 To deactivate your music plugin go to music plugin configuration and click the yellow disable button.
-![Mee6](http://i.imgur.com/2S1nYTb.png)
+![Mee6](/docs/pics/2S1nYTb%5B1%5D.png?raw=true)
 
 > Music configuration will save.
 
