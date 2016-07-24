@@ -43,16 +43,15 @@ To make Mee6 join your channel type in !join
     To add link use following:
     !add (link)
 
-To see playlist & queue type in !playlist
-⠀⠀⠀⠀Mee6 will give you last 5 songs in queue and link to full queue.
-
-To skip music type in: !skip
-⠀⠀⠀⠀Mee6 will skip current song.
-To stop music type in: !stop
-⠀⠀⠀⠀Mee6 will stop playing music.
-To give Mee6 break from playing type in: !leave
-⠀⠀⠀⠀Mee6 will leave voice channel.
-##Deactivating Music Plugin
+<p>To see playlist & queue type in !playlist</p>
+<p>⠀⠀⠀⠀Mee6 will give you last 5 songs in queue and link to full queue.</p>
+<p>To skip music type in: !skip</p>
+<p>⠀⠀⠀⠀Mee6 will skip current song.</p>
+<p>To stop music type in: !stop</p>
+<p>⠀⠀⠀⠀Mee6 will stop playing music.</p>
+<p>To give Mee6 break from playing type in: !leave</p>
+<p>⠀⠀⠀⠀Mee6 will leave voice channel.</p>
+##Deactivating Music Plugin</p>
 Sadly you won't get your infinite potion back as mentioned before. However you will be able to activate it again on the server.
 
 To deactivate your music plugin go to music plugin configuration and click the yellow disable button.
