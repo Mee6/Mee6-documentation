@@ -23,10 +23,10 @@ Here is how you do it:
 
  1. Go to [Mee6 Dashboard](https://mee6.xyz/servers)
  2. Activate Music Plugin
-![Mee6 Dashboard](docs/pics/RuZ3JWD%5B1%5D.png?raw=true)
-![Mee6](docs/pics/IY8R1ra%5B1%5D.png?raw=true)
+![Mee6 Dashboard](/docs/pics/RuZ3JWD%5B1%5D.png?raw=true)
+![Mee6](/docs/pics/IY8R1ra%5B1%5D.png?raw=true)
  3. Configure
-![Mee6](docs/pics/GnK7rcY%5B1%5D.png?raw=true)
+![Mee6](/docs/pics/GnK7rcY%5B1%5D.png?raw=true)
  4. And you are done!
 
 ##Using in Discord
