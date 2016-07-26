@@ -71,12 +71,7 @@ To deactivate your music plugin go to music plugin configuration and click the y
 
 > Music configuration will save.
 
-
-
-
- - Created by Doc
-<<<<<<< HEAD
-
 =======
+ - Created by Doc
  - Grammar fixed by Cat
->>>>>>> f0389957f3d0c28a4bac5ab3e0ccc3160e9c2bae
+
