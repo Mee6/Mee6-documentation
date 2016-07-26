@@ -9,7 +9,7 @@
 
 **Note**: When you buy your plan you can only use it on one server, however you can buy more and use them on other servers. 
 ##Points
-With [points](https://mee6.xyz/donate) you can activate your music feature or other paid feature. Point system is simple:
+With [points](https://mee6.xyz/donate) you can activate your music feature or other paid feature. The Point system is simple:
 
     100 [points](https://mee6.xyz/donate) = 1€
     Monthly Music = 3€
