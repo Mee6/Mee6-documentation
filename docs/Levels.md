@@ -11,7 +11,7 @@ You should now see:
 
 2) Enabling `Send in whisper`, will cause Mee6 to DirectMessage the player directly instead of a public chat.  
 
-3) If `!rank` or `!rank @some_user` is used to often, you can enable this for time (in seconds) you wish for them to have to wait.  
+3) If `!rank` or `!rank @some_user` is used too often, you can enable this for time (in seconds) you wish for them to have to wait.  
 
 4) Here you can set `Black Listed` roles to not gain Experience.  
 > Let's say that you got a couple of bots or people who spam for levels in your server and you do not want them to gain Experience; Try giving them "Bots" or "Spammer" role and blacklist that role after.  
@@ -25,7 +25,7 @@ You should now see:
 
 ![Level Bot Role](pics/levelbotrole.png)
 
-1) Locate your Roles and give Mee6 or your varient of "Bots" Role the permission `Manage Roles`  
+1) Locate your Roles and give Mee6 or your variant of "Bots" Role the permission `Manage Roles`  
 > Manage Roles is Required to allow Mee6 to apply the roles from rewards to the user.
 Mee6's Bot Role is Required to be higher than the roles it is applying to users. (Per Discord's newer "Role Hierarchy" System)
 
