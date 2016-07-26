@@ -9,7 +9,7 @@ The Custom Commands Plugin allow you to type a simple command and give a large e
   
 **1**) Write the name you wish the command to have.  
 In the command name, you can only have: `letters, numbers, - or _`  
-Also, you do not need to write `!` at the start it's added automatically.  
+Also, you do not need to write `!` at the start, it's added automatically.  
   
 **2**) Write the return text you wish for the bot to say.  
 At the current time, the bot cannot do special function; Only return messages.  
