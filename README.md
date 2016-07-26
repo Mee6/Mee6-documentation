@@ -15,9 +15,9 @@
 |Levels|Let your members gain **XP** and **levels** by participating in the chat!|
 |Moderator|Cool moderator commands! slowmode/clear/mute|
 |Music|Listen to music with your friends!|
-|Search Anything|Search for whatever you want on imgur, youtube, MyAnimeList and many more websites...|
+|Search Anything|Search for whatever you want on Imgur, youtube, MyAnimeList and many more websites...|
 |Help Me!|Enables the !help command.|
-|Twitch & co.|Get notified when your best Twitch, Hitbox and Beam streamers go live!|
+|Twitch & co.|Get notified when your best Twitch, Hitbox, and Beam streamers go live!|
 |Reddit|Get the new posts of your favorite subreddits!|
 |Welcome|Display a welcome message for members that have joined the server!|
 |Logs|Keep logs of all the messages in your server|
