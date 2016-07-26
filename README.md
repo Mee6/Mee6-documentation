@@ -1,4 +1,4 @@
-# Mee6 documentation
+# [Mee6 documentation](http://silboydens.github.io/Mee6-documentation/)
 ###Some handy links
 
 * Discord server: [<img src="https://discordapp.com/api/servers/159962941502783488/widget.png?style=banner5">](https://discord.gg/0tOgeGSG9kV0jasj)
