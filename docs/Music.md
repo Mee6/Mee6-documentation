@@ -4,20 +4,23 @@
 ##Current Plans
 [Mee6](https://mee6.xyz/) currently supports 2 plans:
 
-    1. Monthly - 300 [points](https://mee6.xyz/donate)
-    2. Lifetime - 2500 [points](https://mee6.xyz/donate)
+> 1. Monthly - 300 [points](https://mee6.xyz/donate)<br />
+> 2. Lifetime - 2500 [points](https://mee6.xyz/donate)
 
-**Note**: When you buy your plan you can only use it on one server, however you can buy more and use them on other servers. 
+**Note**: When you buy your plan you can only use it on one server, however you can buy multiple plans for multiple servers. 
 ##Points
 
-With [points](https://mee6.xyz/donate) you can activate your music feature or other paid feature. Point system is simple:
 With [points](https://mee6.xyz/donate) you can activate your music feature or other paid feature. The Point system is simple:
-
-    100 [points](https://mee6.xyz/donate) = 1€
-    Monthly Music = 3€
-    Lifetime Music = 25€ 
+> 100 [points](https://mee6.xyz/donate) = 1€<br />
+> Monthly Music = 3€<br />
+> Lifetime Music = 25€<br />
+ 
 ##[Purchasing points](https://mee6.xyz/donate)
-Purchase can be only made through a [PayPal](https://www.paypal.com/) (Credit Card). You can choose how much [points](https://mee6.xyz/donate) you want from 100 [points](https://mee6.xyz/donate) to 6000 [points](https://mee6.xyz/donate)!
+Purchase can be only made through a [PayPal](https://www.paypal.com/) or with Credit Cards.
+You can choose how much [points](https://mee6.xyz/donate) you want from 100 [points](https://mee6.xyz/donate) to 6000 [points](https://mee6.xyz/donate)!
+!!! Attention
+    If you can't use paypal or credit card then sorry, you can't buy music :-(
+
 ##Activating Music Plugin
 
 After **purchasing** the [points](https://mee6.xyz/donate) you can activate your plugin!
@@ -25,51 +28,43 @@ Here is how you do it:
 
  1. Go to [Mee6 Dashboard](https://mee6.xyz/servers)
  2. Activate Music Plugin
-![Mee6 Dashboard](/docs/pics/RuZ3JWD%5B1%5D.png?raw=true)
-![Mee6](/docs/pics/IY8R1ra%5B1%5D.png?raw=true)
+![Mee6 Dashboard](pics/RuZ3JWD%5B1%5D.png)
+![Mee6](pics/IY8R1ra%5B1%5D.png)
  3. Configure
-![Mee6](/docs/pics/GnK7rcY%5B1%5D.png?raw=true)
+![Mee6](pics/GnK7rcY%5B1%5D.png)
  4. And you are done!
 
 ##Using in Discord
 To make Mee6 join your channel type in !join
 
-    !add (youtube search query)
+> !add (youtube search query)<br />
+> You can also use video links, Mee6 currently supports these sites.<br />
+<table>
+<tr><td>BBC</td><td>Patreon</td><td>ABC7News</td><td>SoundCloud</td></tr>
 
-    You can also use video links, Mee6 currently supports theese sites.
+<tr><td>IMDB</td><td>ABC News</td><td>Facebook</td><td>YouTube</td></tr>
+<tr><td>NHL</td><td>Dropbox</td><td>SchoolTV</td><td>PBS and Member Stations</td></tr>
+<tr><td colspan="3" >Twitch(livestreams and recorded streams)</td><td>AND MUCH MORE...</td></tr>
+</table>
+> To add link use following:<br />
+> !add (link)<br />
 
-    You can also use video links, Mee6 currently supports these sites.
+To see playlist & queue type in !playlist<br />
+ &nbsp; &nbsp; &nbsp; Mee6 will give you last 5 songs in queue and link to full queue.<br />
+To skip music type in: !skip<br />
+ &nbsp; &nbsp; &nbsp; Mee6 will skip current song.<br />
+To stop music type in: !stop<br />
+ &nbsp; &nbsp; &nbsp; Mee6 will stop playing music.<br />
+To give Mee6 break from playing type in: !leave<br />
+ &nbsp; &nbsp; &nbsp; Mee6 will leave voice channel.<br />
 
-    
-	BBC  |Patreon  |ABC7News |SoundCloud
-	IMDB |ABC News |Facebook |YouTube
-	NHL  |Dropbox  |SchoolTV |PBS and Member Stations
-	Twitch(livestreams and recorded streams)
-	
-    To add link use following:
-    !add (link)
+##Deactivating Music Plugin
 
-<p>To see playlist & queue type in !playlist</p>
-<p>⠀⠀⠀⠀Mee6 will give you last 5 songs in queue and link to full queue.</p>
-<p>To skip music type in: !skip</p>
-<p>⠀⠀⠀⠀Mee6 will skip current song.</p>
-<p>To stop music type in: !stop</p>
-<p>⠀⠀⠀⠀Mee6 will stop playing music.</p>
-<p>To give Mee6 break from playing type in: !leave</p>
-<p>⠀⠀⠀⠀Mee6 will leave voice channel.</p>
-##Deactivating Music Plugin</p>
-
-Sadly you won't get your infinite potion back as mentioned before. However you will be able to activate it again on the server.
-
-Sadly you won't get your infinite potion back as mentioned before. However, you will be able to activate it again on the server.
-
+Sadly you won't get your infinite potion back as mentioned before. However, you will be able to activate it again on that same server.
 
 To deactivate your music plugin go to music plugin configuration and click the yellow disable button.
-![Mee6](/docs/pics/2S1nYTb%5B1%5D.png?raw=true)
-
-> Music configuration will save.
-
-=======
- - Created by Doc
- - Grammar fixed by Cat
-
+![Mee6](pics/2S1nYTb%5B1%5D.png)
+!!! Attention
+    You will be able to activate it again IN THE SAME SERVER, not in other servers with that potion!<br />
+	The same user needs to activate it again or you will lose a potion and use a new one!
+> Music configuration will be saved.
