@@ -63,4 +63,4 @@ To deactivate your music plugin go to music plugin configuration and click the y
 
 
  - Created by Doc
-
+ - Grammar fixed by Cat
