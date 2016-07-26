@@ -9,11 +9,9 @@
 
 **Note**: When you buy your plan you can only use it on one server, however you can buy more and use them on other servers. 
 ##Points
-<<<<<<< HEAD
+
 With [points](https://mee6.xyz/donate) you can activate your music feature or other paid feature. Point system is simple:
-=======
 With [points](https://mee6.xyz/donate) you can activate your music feature or other paid feature. The Point system is simple:
->>>>>>> f0389957f3d0c28a4bac5ab3e0ccc3160e9c2bae
 
     100 [points](https://mee6.xyz/donate) = 1€
     Monthly Music = 3€
@@ -37,11 +35,11 @@ Here is how you do it:
 To make Mee6 join your channel type in !join
 
     !add (youtube search query)
-<<<<<<< HEAD
+
     You can also use video links, Mee6 currently supports theese sites.
-=======
+
     You can also use video links, Mee6 currently supports these sites.
->>>>>>> f0389957f3d0c28a4bac5ab3e0ccc3160e9c2bae
+
     
 	BBC  |Patreon  |ABC7News |SoundCloud
 	IMDB |ABC News |Facebook |YouTube
@@ -60,11 +58,11 @@ To make Mee6 join your channel type in !join
 <p>To give Mee6 break from playing type in: !leave</p>
 <p>⠀⠀⠀⠀Mee6 will leave voice channel.</p>
 ##Deactivating Music Plugin</p>
-<<<<<<< HEAD
+
 Sadly you won't get your infinite potion back as mentioned before. However you will be able to activate it again on the server.
-=======
+
 Sadly you won't get your infinite potion back as mentioned before. However, you will be able to activate it again on the server.
->>>>>>> f0389957f3d0c28a4bac5ab3e0ccc3160e9c2bae
+
 
 To deactivate your music plugin go to music plugin configuration and click the yellow disable button.
 ![Mee6](/docs/pics/2S1nYTb%5B1%5D.png?raw=true)
