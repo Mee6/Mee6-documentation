@@ -1,0 +1,194 @@
+body
+{
+    margin: 0 auto;
+    background: #008cba; /* same as mee6.xyz */
+    height: 100vh;
+    display: flex;
+    flex-flow: column;
+    align-content: center;
+}
+
+/* Title */
+.wrapper
+{
+    margin: auto;
+    width: 60em;
+    color: white;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: center;
+}
+
+.generic-font
+{
+    font-weight: 300;
+    line-height: 1.1;
+}
+
+.mee6-link
+{
+    color: white;
+    text-decoration-style: double;
+}
+
+.title
+{
+    font-size: 68px;
+    margin-bottom: 10px;
+}
+
+.sub-title
+{
+    margin: 0 0;
+    font-size: 26px;
+}
+
+/* Inputs */
+.input-fields
+{
+    margin: 5em 0;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+.input-box
+{
+    border-width: 0px;
+    border: none;
+    width: 600px;
+    height: 48px;
+    font-size: 19px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.input-box[type="number"]
+{
+    font-weight: lighter;
+}
+
+.button-calculate
+{
+    padding: 15px 0;
+    width: 600px;
+    background: white;
+    color: #008cba;
+    font-size: 19px;
+}
+.button-calculate:hover
+{
+    /* Same as mee6.xyz */
+    background-color: #006687;
+    color:#FFF;
+}
+
+/* Results */
+.results
+{
+    display: flex;
+    flex-flow: column;
+}
+
+.result-main
+{
+    margin: 0 0 3em 0;
+    display: flex;
+    flex-flow: column;
+}
+
+.result-title
+{
+    margin: 0 0;
+    font-size: 3.2em;
+}
+
+.result-sub-title
+{
+    font-size: 1.5em;
+    margin-bottom: 5px;
+}
+
+.result-xp-left
+{
+    font-style: italic;
+    font-size: 1.2em;
+    font-weight: lighter;
+}
+
+.result-max-min-messages
+{
+    display: flex;
+    margin: auto;
+    width: 35em;
+    flex-flow: column;
+    text-align: justify;
+    border: 4px dotted #fff;
+    padding: 1em;
+}
+
+.disclaimer
+{
+    border: 2px dotted #fff;
+    position: fixed;
+    display: block;
+    padding: 5px;
+    bottom: 1em;
+    left: 1em;
+
+    text-align: left;
+    font-size: 13px;
+
+    color: #ddf4ff;
+    background-color: rgba(0, 140, 186, 0.8);
+    transition-duration: 0.5s;
+}
+
+.disclaimer:hover
+{
+    opacity: 0.2;
+}
+
+.disclaimer a
+{
+    color: #8ec8e3;
+    text-decoration: none;
+}
+
+@media (max-width: 1250px)
+{
+    .disclaimer
+    {
+        position: initial;
+        border: none;
+        margin: 1em;
+        text-align: center;
+    }
+
+    @media (max-width: 800px)
+    {
+        .wrapper
+        {
+            width: 90vw;
+            margin: auto;
+        }
+
+        .title
+        {
+            font-size: 52px;
+        }
+
+        .input-box, .button-calculate
+        {
+            width: 100%;
+        }
+
+        .result-max-min-messages
+        {
+            width: 80vw;
+        }
+
+        .input-fields
+        {
+            margin: 3em 0 5em 0;
+        }
+    }
+}
