@@ -4,8 +4,8 @@
 ## Current Plans
 [Mee6](https://mee6.xyz/) currently supports 2 plans:
 
-> 1. Monthly - 300 [points](https://mee6.xyz/donate)<br />
-> 2. Lifetime - 2500 [points](https://mee6.xyz/donate)
+> 1. Monthly - 500 [points](https://mee6.xyz/donate)<br />
+> 2. Lifetime - 3000 [points](https://mee6.xyz/donate)
 
 **Note**: When you buy your plan you can only use it on one server, however you can buy multiple plans for multiple servers.
 ## Points
@@ -20,6 +20,8 @@ Purchase can be only made through a [PayPal](https://www.paypal.com/) or with Cr
 You can choose how much [points](https://mee6.xyz/donate) you want from 500 [points](https://mee6.xyz/donate) to 6000 [points](https://mee6.xyz/donate)!
 !!! Attention
     If you can't use paypal or credit card then sorry, you can't buy music :-(
+    
+    Once a potion is assigned to a server, you can't move it to a other server
 
 ## Activating Music Plugin
 
