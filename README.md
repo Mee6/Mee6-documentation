@@ -19,7 +19,6 @@
 |Twitch & co.|Get notified when your best Twitch, Hitbox, and Beam streamers go live!|
 |Reddit|Get the new posts of your favorite subreddits!|
 |Welcome|Display a welcome message for members that have joined the server!|
-|Logs|Keep logs of all the messages in your server|
 > AND MUCH MORE
 
 ##Who made this?
@@ -29,19 +28,4 @@
 </p>
 <p align="center">
 Hi, I'm <b>Cookie</b>. I made the first version of Mee6 bot in 3 days.
-</p>
-
-<p align="center">
-<img src="docs/pics/vai.jpg?raw=true">
-</p>
-<p align="center">
-This is <b>vʌı</b>. He corrects all the silly english related mistakes that I make on the website and on the bot.
-</p>
-
-<p align="center">
-<img src="docs/pics/sans.jpg?raw=true">
-</p>
-
-<p align="center">
-This is <b>sans</b>. He loves archlinux and he made the Git Repo plugin.
 </p>
