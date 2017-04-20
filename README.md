@@ -1,10 +1,11 @@
 # [Mee6 documentation](http://silboydens.github.io/Mee6-documentation/)
-###Some handy links
+
+### Some handy links
 
 * Discord server: [<img src="https://discordapp.com/api/guilds/159962941502783488/widget.png">](https://discord.gg/0tOgeGSG9kV0jasj)
 * Mee6 Github: [![Git](https://img.shields.io/badge/Github-Mee6-blue.svg?style=flat-square)](https://github.com/cookkkie/mee6)
 * [![Dashboard](https://img.shields.io/badge/Mee6-Dahsboard-blue.svg?style=flat-square)](http://mee6.xyz/servers) this is where you configure Mee6.
-* [realtime statistics](http://stats.mee6.xyz) for the nerds ;-)
+* [realtime statistics](https://p.datadoghq.com/sb/b5ae28d32-9ae9580a52?tv_mode=true) for the nerds ;-)
 
 <img src="docs/pics/cggk7y9%5B1%5D.png?raw=true">
 
@@ -21,7 +22,7 @@
 |Welcome|Display a welcome message for members that have joined the server!|
 > AND MUCH MORE
 
-##Who made this?
+## Who made this?
 
 <p align="center">
 <img src="docs/pics/cookie.jpg?raw=true">
