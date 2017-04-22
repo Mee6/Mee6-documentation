@@ -1,7 +1,7 @@
 site_name: Mee6 Documentation
-site_url: http://SilBoydens.github.io/Mee6-documentation
-repo_url: https://github.com/SilBoydens/Mee6-documentation
-repo_name: GitHub
+site_url: http://mee6.github.io/Mee6-documentation
+repo_url: https://github.com/mee6/Mee6-documentation
+repo_name: Mee6-documentation
 site_author: Sil Boydens
 theme: readthedocs
 markdown_extensions:
