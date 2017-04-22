@@ -12,6 +12,7 @@ pages:
   - Home: index.md
 #  - Example: example.md
   - Custom Commands: Commands.md
+  - Variables: Variables.md
   - Levels plugin: Levels.md
   - Experience Per Level: levelxp.md
   - Moderator plugin: Moderator.md
