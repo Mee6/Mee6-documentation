@@ -4,6 +4,8 @@
 ![xp needed to level up](pics/xp_level_up.png)
 ![total xp to get this level](pics/total_xp_level.png)
 
+to calculate how much messages you still need to send in order to level up, try this: (http://mee6calc.xyz/)[http://mee6calc.xyz/] or the locale version: (mee6calc)[mee6calc]
+
 |level	|xp needed to level up	|needed to get this level(total xp)|
 |-|-|-|
 |0	|100	|0|
