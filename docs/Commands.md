@@ -30,7 +30,7 @@ If you wish to remove an existing command.
 
 ### variables in the responds
 
-You can use the variables from the [variables](variables) page.
+You can use the variables from the [variables](Variables) page.
 
 This can be used to mention the user who did the command or to get information on **yourself**.
 It is not possible to do `!info @name` to get info of a other user.
