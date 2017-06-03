@@ -1,6 +1,6 @@
-#Levels
-##Let Your Members Gain **Experience** and **Levels** by Participating in The Chat !
-###Setup:
+# Levels
+## Let Your Members Gain **Experience** and **Levels** by Participating in The Chat !
+### Setup:
 Go to [Mee6 Dashboard](https://mee6.xyz/servers) and select your server.  
 Select the `Levels` Plugin.  
 You should now see:
@@ -18,10 +18,10 @@ You should now see:
 
 5) To save any changes, press `Update` near the end of the page.  
   
-##Role Rewards
-###Setup
+## Role Rewards
+### Setup
   
-####Mee6 Role and Required Permissions
+#### Mee6 Role and Required Permissions
 
 ![Level Bot Role](pics/levelbotrole.png)
 
@@ -29,12 +29,12 @@ You should now see:
 > Manage Roles is Required to allow Mee6 to apply the roles from rewards to the user.
 Mee6's Bot Role is Required to be higher than the roles it is applying to users. (Per Discord's newer "Role Hierarchy" System)
 
-###Setup Role Reward
+### Setup Role Reward
 ![Reward Role](pics/levelrewardrole.png)
   
 > Create the `Role` how you wish and Modify/Customize it's Names, Colors, Permissions, and Everything Else.
   
-####Applying Role Rewards in the Dashboard
+#### Applying Role Rewards in the Dashboard
 Now, Open your Dashboard and Navigate to the `Levels` Plugin Page.
 ![Reward Dashboard](pics/rewarddash.png)
 > The Order here is Dependant on the order the Roles are Created!
