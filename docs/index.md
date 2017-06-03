@@ -14,7 +14,6 @@
 |Levels|Let your members gain **XP** and **levels** by participating in the chat!|
 |Commands|Add and manage your **AWESOME** custom commands!|
 |Animu and Mango|Search the web for your favorite animes and mangas.|
-|Logs|Keep logs of all the messages in your server|
 
 > AND MUCH MORE
 
