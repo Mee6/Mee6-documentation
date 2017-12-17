@@ -2,8 +2,9 @@
 
 ### Some handy links
 
-* [Our discord server](https://discord.gg/0tOgeGSG9kVbtw7u)
-* [Mee6 Github page](https://github.com/cookkkie/mee6)
+* [Our discord server](https://discord.gg/mee6)
+* [Mee6 somewhat older Github page](https://github.com/cookkkie/mee6)
+* [Mee6 newer Github page](https://github.com/mee6)
 * [the dashboard](http://mee6.xyz/servers) this is where you configure Mee6.
 * [realtime statistics](https://p.datadoghq.com/sb/b5ae28d32-9ae9580a52?tv_mode=true) for the nerds ;-)
 
