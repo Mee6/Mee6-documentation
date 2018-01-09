@@ -1,6 +1,9 @@
 # Commands Plugin
+
 ## Mee6 Custom Commands Plugin
+
 ### Add or Manage Your **AWESOME** Custom Commands!
+
 The Custom Commands Plugin allow you to type a simple command and give a large explanation or a link without needing to copy/paste or type a bulk response each time.  
 
 ![add_commands](pics/commands.png)
