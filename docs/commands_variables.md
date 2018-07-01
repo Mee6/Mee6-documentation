@@ -3,26 +3,26 @@ These can be used by typing them in the custom command inside a `{ }`
 
 # the `{user}` variables:
 
-`{user}` or `{user.mention}` mentions the user.
+`{user}` or `{user.mention}` Mentions the user who executed the command.
 
-`{user.id}` gives the id of a user.
+`{user.id}` Gives the id of the user who executed thd command.
 
-`{user.name}` gives the user name (without @ or # or discriminator), this is the global username and not the server nickname.
+`{user.name}` Gives the user name (without `@` or `#` or `discriminator`), this is the global username and not the server nickname.
 
-`{user.discriminator}` gives the user discriminator (the 4 numbers after the # after your name).
+`{user.discriminator}` Gives the user discriminator (the 4 numbers after the `#` after your name).
 
-`{user.joined_at}` gives the date and time that the user joined the Server.
+`{user.idname}` Gives the username with the discriminator like: `MEE6#4876`.
 
-`{user.created_at}` date and time when the user account was created.
+`{user.avatar}` Gives the avatar hash.
 
-`{user.status}` gives the status (online, afk, dnd, offline) of the user.
+`{user.avatar_url}` Gives the URL of your avatar.
 
-`{user.isbot}` gives true if this is a bot account, false if it is a normal user account.
-Mee6 custom commands don't react to bots, so this will currently always responds false.
+`{user.bot}` Gives true if this is a bot account, false if it is a normal user account.
+MEE6 custom commands don't react to bots, so this will currently always responds false.
 
-`{user.picture}` gives the link to the user avatar.
+`{user.picture}` Gives the link to the user avatar.
 
-`{user.nickname}` gives the nickname of the user or the username if no nickname is set.
+`{user.nickname}` Gives the nickname of the user or the username if no nickname is set.
 
 # the `{server}` variables
 
