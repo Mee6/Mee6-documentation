@@ -48,14 +48,10 @@ MEE6 custom commands don't react to bots, so this will currently always responds
 
 # The `{channel}` variables
 
-`{channel}` or `{channel.name}` gives the name of the channel, without the # in front
+`{channel}` or `{channel.name}` Gives the name of the channel.
 
-`{channel.mention}` will give the clickable channel name
+`{channel.id}` Guves the id of the channel where the command is executed.
 
-`{channel.id}` gives the id of the channel.
+`{channel.type}` Gives true if this is a NSFW channel, false if it is a normal channel.
 
-`{channel.topic}` gives the channel topic.
-
-`{channel.position}` gives the position of the channel in the list (1 being the top of the list, this can reveal hidden channels).
-
-`{channel.created_at}` gives the date and time that the channel was created.
+`channel.mention}` Mentions the channel where the commands is executed.
