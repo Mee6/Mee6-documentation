@@ -1,4 +1,4 @@
-In the custom commands of Mee6 you have the functionality to use variables.
+In the custom commands of MEE6 you have the functionality to use variables.
 These can be used by typing them in the custom command inside a `{ }`
 
 # The `{user}` variables:
