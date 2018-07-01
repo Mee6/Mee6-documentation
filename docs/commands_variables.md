@@ -1,7 +1,7 @@
 In the custom commands of Mee6 you have the functionality to use variables.
 These can be used by typing them in the custom command inside a `{ }`
 
-# the `{user}` variables:
+# The `{user}` variables:
 
 `{user}` or `{user.mention}` Mentions the user who executed the command.
 
@@ -24,23 +24,29 @@ MEE6 custom commands don't react to bots, so this will currently always responds
 
 `{user.nickname}` Gives the nickname of the user or the username if no nickname is set.
 
-# the `{server}` variables
+# The `{server}` variables
 
-`{server}` or `{server.name}` gives the server name.
+`{server}` or `{server.name}` Gives the name of the server.
 
-`{server.region}` gives the server region.
+`{server.id}` Gives the id of the server.
 
-`{server.afk_timeout}` gives the timeout of the voicechat in minutes.
+`{server.icon}` Gives the server icon hash.
 
-`{server.afk_channel}` gives the channel you will be send to after the timeout.
+`{server.icon_url}` Gives the URL of the server icon.
 
-[//]: # (`{server.icon}` gives the link to the server icon.)
+`{server.owner_id}` Gives the id of the owner of the server.
 
-`{server.member_count}` gives the amount of members in your server.
+`{server.owner}` Mentions the owner.
 
-`{server.created_at}` gives the date and time the server got created.
+`{server.region}` Gives the region where the server is hosted.
 
-# the `{channel}` variables
+`{server.verification_level}` Gives the level of verification of the server.
+
+`{server.joined_at}` Gives the date of creation of the server.
+
+`{server.member_count}` Gives the number of members in the server.
+
+# The `{channel}` variables
 
 `{channel}` or `{channel.name}` gives the name of the channel, without the # in front
 
