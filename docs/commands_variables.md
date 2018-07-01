@@ -1,55 +1,57 @@
-In the custom commands of Mee6 you have the functionality to use variables.
+In the custom commands of MEE6 you have the functionality to use variables.
 These can be used by typing them in the custom command inside a `{ }`
 
-# the `{user}` variables:
+# The `{user}` variables:
 
-`{user}` or `{user.mention}` mentions the user.
+`{user}` or `{user.mention}` Mentions the user who executed the command.
 
-`{user.id}` gives the id of a user.
+`{user.id}` Gives the id of the user who executed thd command.
 
-`{user.name}` gives the user name (without @ or # or discriminator), this is the global username and not the server nickname.
+`{user.name}` Gives the user name (without `@` or `#` or `discriminator`), this is the global username and not the server nickname.
 
-`{user.discriminator}` gives the user discriminator (the 4 numbers after the # after your name).
+`{user.discriminator}` Gives the user discriminator (the 4 numbers after the `#` after your name).
 
-`{user.joined_at}` gives the date and time that the user joined the Server.
+`{user.idname}` Gives the username with the discriminator like: `MEE6#4876`.
 
-`{user.created_at}` date and time when the user account was created.
+`{user.avatar}` Gives the avatar hash.
 
-`{user.status}` gives the status (online, afk, dnd, offline) of the user.
+`{user.avatar_url}` Gives the URL of your avatar.
 
-`{user.isbot}` gives true if this is a bot account, false if it is a normal user account.
-Mee6 custom commands don't react to bots, so this will currently always responds false.
+`{user.bot}` Gives true if this is a bot account, false if it is a normal user account.
+MEE6 custom commands don't react to bots, so this will currently always responds false.
 
-`{user.picture}` gives the link to the user avatar.
+`{user.picture}` Gives the link to the user avatar.
 
-`{user.nickname}` gives the nickname of the user or the username if no nickname is set.
+`{user.nickname}` Gives the nickname of the user or the username if no nickname is set.
 
-# the `{server}` variables
+# The `{server}` variables
 
-`{server}` or `{server.name}` gives the server name.
+`{server}` or `{server.name}` Gives the name of the server.
 
-`{server.region}` gives the server region.
+`{server.id}` Gives the id of the server.
 
-`{server.afk_timeout}` gives the timeout of the voicechat in minutes.
+`{server.icon}` Gives the server icon hash.
 
-`{server.afk_channel}` gives the channel you will be send to after the timeout.
+`{server.icon_url}` Gives the URL of the server icon.
 
-[//]: # (`{server.icon}` gives the link to the server icon.)
+`{server.owner_id}` Gives the id of the owner of the server.
 
-`{server.member_count}` gives the amount of members in your server.
+`{server.owner}` Mentions the owner.
 
-`{server.created_at}` gives the date and time the server got created.
+`{server.region}` Gives the region where the server is hosted.
 
-# the `{channel}` variables
+`{server.verification_level}` Gives the level of verification of the server.
 
-`{channel}` or `{channel.name}` gives the name of the channel, without the # in front
+`{server.joined_at}` Gives the date of creation of the server.
 
-`{channel.mention}` will give the clickable channel name
+`{server.member_count}` Gives the number of members in the server.
 
-`{channel.id}` gives the id of the channel.
+# The `{channel}` variables
 
-`{channel.topic}` gives the channel topic.
+`{channel}` or `{channel.name}` Gives the name of the channel.
 
-`{channel.position}` gives the position of the channel in the list (1 being the top of the list, this can reveal hidden channels).
+`{channel.id}` Guves the id of the channel where the command is executed.
 
-`{channel.created_at}` gives the date and time that the channel was created.
+`{channel.type}` Gives true if this is a NSFW channel, false if it is a normal channel.
+
+`channel.mention}` Mentions the channel where the commands is executed.
