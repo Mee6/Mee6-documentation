@@ -3,7 +3,7 @@
 ## Some handy links
 
 * [Our Discord server](https://discord.gg/mee6)
-* [The Mee6's dashboard](https://mee6.xyz/servers) this is where you configure Mee6.
+* [The Mee6's dashboard](https://mee6.xyz/dashboard) this is where you configure Mee6.
 * [Realtime statistics](https://p.datadoghq.com/sb/b5ae28d32-9ae9580a52) for the nerds ;)
 * [Old Github repo](https://github.com/cookkkie/mee6)
 * [New and actual Github page](https://github.com/mee6)
