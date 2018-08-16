@@ -20,8 +20,6 @@ These can be used by typing them in the custom command inside a `{ }`
 `{user.bot}` Gives true if this is a bot account, false if it is a normal user account.
 MEE6 custom commands don't react to bots, so this will currently always responds false.
 
-`{user.picture}` Gives the link to the user avatar.
-
 `{user.nickname}` Gives the nickname of the user or the username if no nickname is set.
 
 # The `{server}` variables
@@ -54,4 +52,4 @@ MEE6 custom commands don't react to bots, so this will currently always responds
 
 `{channel.type}` Gives true if this is a NSFW channel, false if it is a normal channel.
 
-`channel.mention}` Mentions the channel where the commands is executed.
+`{channel.mention}` Mentions the channel where the commands is executed.
