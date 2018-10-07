@@ -11,7 +11,7 @@ pip install mkdocs-material
 
 * Discord server: [<img src="https://discordapp.com/api/guilds/159962941502783488/widget.png">](https://discord.gg/MEE6)
 * MEE6 Github: [![Git](https://img.shields.io/badge/Github-MEE6-62d3f5.svg?style=flat-square)](https://github.com/cookkkie/mee6)
-* [![Dashboard](https://img.shields.io/badge/MEE6-Dahsboard-62d3f5.svg?style=flat-square)](http://mee6.xyz/dashboard) this is where you configure MEE6.
+* [![Dashboard](https://img.shields.io/badge/MEE6-Dashboard-62d3f5.svg?style=flat-square)](http://mee6.xyz/dashboard) this is where you configure MEE6.
 
 <img src="docs/pics/cggk7y9%5B1%5D.png?raw=true">
 
