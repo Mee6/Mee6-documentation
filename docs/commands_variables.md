@@ -48,7 +48,7 @@ MEE6 custom commands don't react to bots, so this will currently always responds
 
 `{channel}` or `{channel.name}` Gives the name of the channel.
 
-`{channel.id}` Guves the id of the channel where the command is executed.
+`{channel.id}` Gives the id of the channel where the command is executed.
 
 `{channel.type}` Gives true if this is a NSFW channel, false if it is a normal channel.
 
