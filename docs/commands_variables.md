@@ -52,3 +52,4 @@ variable | description | example
 `{server.verification_level}` | server verification level: 0 - none, 1 - low, 2 - medium, 3 - high, 4 - tableflip | `2`
 `{server.joined_at}` | date when bot joined server | `2017-04-08T07:24:15.143000+00:00`
 `{channel.type}` | 0 - text, 1 - dm, 2 - voice channel, 3 - group dm, 4 - category | `0`
+`{1}` | First argument after command | `!customcmd Hi - returns: Hi`
