@@ -10,8 +10,6 @@ You can use the following formula to calculate how much XP you need to level up:
 * `lvl` is your current level
 * `xp` is how much XP you already have towards the next level.
 
-To calculate how many messages you still need to send in order to level up,  you can try this [calculator](/Mee6-documentation/mee6calc).
-
 [View table on Google Docs](https://docs.google.com/spreadsheets/d/1F4y1qBurAu3l4UfYrgwXFLtojNdtW6qhMInEyrNX_x4/edit?usp=sharing)
 
 | **Level** | **XP needed to level up** | **Total XP required** |
